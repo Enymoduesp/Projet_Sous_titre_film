@@ -1,0 +1,5261 @@
+1
+00:00:13,001 --> 00:00:16,792
+MOSFILM
+
+2
+00:00:18,792 --> 00:00:22,209
+Deuxième Union Artistique
+
+3
+00:00:36,959 --> 00:00:41,292
+Alissa Freindlich
+
+4
+00:00:44,084 --> 00:00:48,376
+Alexandre Kaïdanovski
+
+5
+00:00:50,792 --> 00:00:55,084
+Anatoli Solonitsyne
+
+6
+00:00:57,042 --> 00:01:01,334
+Nicolaï Grinko
+
+7
+00:01:03,251 --> 00:01:05,917
+dans
+
+8
+00:01:07,209 --> 00:01:13,167
+STALKER
+
+9
+00:01:16,376 --> 00:01:19,459
+Scénario
+d'Arcadi et Boris Strougatski
+
+10
+00:01:19,626 --> 00:01:23,834
+inspiré de la nouvelle
+<i>Pique-nique au bord du chemin</i>
+
+11
+00:01:28,376 --> 00:01:34,209
+Réalisation
+Andreï Tarkovski
+
+12
+00:01:35,584 --> 00:01:41,459
+Directeur de la photographie
+Alexandre Kniajinski
+
+13
+00:01:42,876 --> 00:01:48,417
+Décors
+Andreï Tarkovski
+
+14
+00:01:49,792 --> 00:01:54,917
+Musique
+Edouard Artemiev
+
+15
+00:01:56,376 --> 00:02:00,251
+Assistant réalisateur
+L. Tarkovskaïa
+
+16
+00:02:01,667 --> 00:02:07,167
+Poèmes de
+Fiodor Tiouttchev et Arseni Tarkovski
+
+17
+00:02:08,584 --> 00:02:10,042
+Son
+V. Charoune
+
+18
+00:02:10,251 --> 00:02:14,167
+Orchestre sous la direction de
+E. Khatchatourian
+
+19
+00:02:15,542 --> 00:02:17,584
+Maquillage
+V. Lvova
+
+20
+00:02:17,792 --> 00:02:20,542
+Chef monteur
+L. Feïguinova
+
+21
+00:02:20,709 --> 00:02:22,626
+Costumes
+N. Fomina
+
+22
+00:03:18,376 --> 00:03:22,626
+Directrice de production
+Alexandra Démidova
+
+23
+00:03:25,042 --> 00:03:29,584
+STALKER
+
+24
+00:03:31,542 --> 00:03:35,376
+Qu'est-ce que c'était ?
+La chute d'une météorite ?
+
+25
+00:03:35,584 --> 00:03:38,709
+La visite d'habitants
+de l'abîme cosmique ?
+
+26
+00:03:38,917 --> 00:03:41,917
+Quoi qu'il en soit,
+dans notre petit pays
+
+27
+00:03:42,126 --> 00:03:45,834
+s'était produit le miracle
+des miracles : la ZONE.
+
+28
+00:03:46,042 --> 00:03:49,584
+On y envoya des troupes.
+Elles ne revinrent pas.
+
+29
+00:03:49,792 --> 00:03:52,751
+On encercla la Zone
+de cordons de police.
+
+30
+00:03:52,959 --> 00:03:56,834
+On fit bien, je pense...
+Enfin, je n'en sais rien...
+
+31
+00:03:57,042 --> 00:04:01,209
+Extrait de l'interview
+du professeur Wolles, prix Nobel,
+
+32
+00:04:01,417 --> 00:04:03,792
+accordée à l'envoyé de la RAI.
+
+33
+00:10:03,959 --> 00:10:05,876
+Pourquoi as-tu pris ma montre ?
+
+34
+00:10:09,126 --> 00:10:11,042
+Où vas-tu ? Dis-le-moi.
+
+35
+00:10:15,084 --> 00:10:17,042
+Tu m'avais pourtant juré.
+
+36
+00:10:17,792 --> 00:10:19,167
+Et je t'ai cru.
+
+37
+00:10:24,001 --> 00:10:26,834
+Tu ne veux pas penser à toi,
+mais nous ?
+
+38
+00:10:28,334 --> 00:10:30,167
+Pense à ton enfant.
+
+39
+00:10:32,501 --> 00:10:34,959
+Elle n'est pas encore
+habituée à toi
+
+40
+00:10:35,126 --> 00:10:36,626
+et tu repars déjà.
+
+41
+00:10:40,834 --> 00:10:44,709
+Je suis devenue vieille,
+tu m'as achevée.
+
+42
+00:10:45,209 --> 00:10:47,834
+Chut ! Tu vas réveiller Ouistiti.
+
+43
+00:10:49,667 --> 00:10:53,501
+Je ne peux pas t'attendre
+éternellement, j'en mourrai.
+
+44
+00:11:07,209 --> 00:11:09,376
+Tu avais l'intention de travailler.
+
+45
+00:11:10,959 --> 00:11:14,084
+On t'avait promis
+un travail décent et honorable.
+
+46
+00:11:17,959 --> 00:11:19,501
+Je rentrerai bientôt.
+
+47
+00:11:21,459 --> 00:11:22,959
+En prison, oui !
+
+48
+00:11:23,584 --> 00:11:26,376
+Cette fois tu écoperas
+de dix ans et non cinq.
+
+49
+00:11:26,584 --> 00:11:28,792
+Pendant lesquels tu n'auras rien.
+
+50
+00:11:28,959 --> 00:11:30,917
+Plus de Zone, rien.
+
+51
+00:11:31,751 --> 00:11:35,542
+Et moi, pendant ces dix ans,
+je crèverai.
+
+52
+00:11:37,584 --> 00:11:39,084
+En prison...
+
+53
+00:11:39,626 --> 00:11:41,542
+Je suis partout en prison.
+
+54
+00:11:45,084 --> 00:11:46,459
+- Laisse-moi.
+- Non.
+
+55
+00:11:47,917 --> 00:11:49,542
+- Laisse-moi.
+- Non.
+
+56
+00:11:59,709 --> 00:12:01,042
+Alors fous le camp !
+
+57
+00:12:02,167 --> 00:12:03,792
+Puisses-tu y pourrir.
+
+58
+00:12:05,251 --> 00:12:09,084
+Maudit soit le jour
+où je t'ai rencontré, salaud !
+
+59
+00:12:10,167 --> 00:12:14,042
+Dieu t'a maudit en te donnant
+un enfant comme le tien.
+
+60
+00:12:14,959 --> 00:12:18,084
+Et il m'a maudite à cause de toi.
+Salaud !
+
+61
+00:13:04,459 --> 00:13:08,209
+Ma chère, le monde
+est désespérément ennuyeux.
+
+62
+00:13:08,501 --> 00:13:12,709
+Donc la télépathie, les revenants,
+les soucoupes volantes...
+
+63
+00:13:12,917 --> 00:13:15,167
+ne peuvent exister.
+
+64
+00:13:15,751 --> 00:13:18,417
+Le monde est régi
+par des lois de plomb.
+
+65
+00:13:18,584 --> 00:13:20,542
+C'est d'un ennui insupportable.
+
+66
+00:13:20,751 --> 00:13:25,376
+Hélas, on ne peut enfreindre ces lois.
+Elles sont inviolables.
+
+67
+00:13:27,417 --> 00:13:31,959
+Ne comptez pas sur les soucoupes
+volantes, ce serait trop intéressant.
+
+68
+00:13:32,167 --> 00:13:35,626
+Et le triangle des Bermudes ?
+Vous ne contestez pas...
+
+69
+00:13:35,834 --> 00:13:37,251
+Si, je le conteste.
+
+70
+00:13:37,792 --> 00:13:40,084
+Il n'y a pas de triangle des Bermudes.
+
+71
+00:13:40,292 --> 00:13:44,959
+Il y a le triangle ABC
+qui est égal au triangle A'B'C'.
+
+72
+00:13:45,792 --> 00:13:49,626
+Ressentez-vous l'ennui mortel
+qu'implique cette affirmation ?
+
+73
+00:13:50,334 --> 00:13:53,126
+Au Moyen Âge par contre,
+c'était intéressant.
+
+74
+00:13:53,501 --> 00:13:55,584
+Dans chaque maison, un génie du foyer,
+
+75
+00:13:56,209 --> 00:13:57,834
+dans chaque église, Dieu.
+
+76
+00:13:58,042 --> 00:13:59,417
+Les gens étaient jeunes.
+
+77
+00:13:59,626 --> 00:14:02,251
+À présent, un homme sur quatre
+est un vieux.
+
+78
+00:14:02,459 --> 00:14:05,084
+Quel ennui, mon ange.
+Dieu, quel ennui.
+
+79
+00:14:05,417 --> 00:14:07,167
+Mais vous disiez vous-même
+
+80
+00:14:07,376 --> 00:14:10,584
+que la Zone est l'œuvre
+d'une super-civilisation.
+
+81
+00:14:10,792 --> 00:14:12,792
+Aussi ennuyeuse sans doute.
+
+82
+00:14:13,167 --> 00:14:15,876
+Avec des lois, des triangles,
+
+83
+00:14:16,084 --> 00:14:19,584
+sans génies du foyer
+et sans Dieu bien sûr.
+
+84
+00:14:21,167 --> 00:14:25,584
+Car s'il y a un Dieu, alors
+ce fameux triangle...
+
+85
+00:14:26,667 --> 00:14:28,834
+je n'en sais rien.
+
+86
+00:14:32,626 --> 00:14:34,917
+Ah, c'est pour moi, parfait.
+
+87
+00:14:35,126 --> 00:14:36,584
+Adieu, chère amie.
+
+88
+00:14:37,001 --> 00:14:38,167
+Excusez-moi.
+
+89
+00:14:38,876 --> 00:14:42,084
+Cette dame accepte de venir
+avec nous dans la Zone.
+
+90
+00:14:42,292 --> 00:14:45,459
+C'est une femme courageuse.
+Elle s'appelle...
+
+91
+00:14:46,334 --> 00:14:48,584
+Pardon, vous vous appelez...
+
+92
+00:14:48,792 --> 00:14:51,626
+Ainsi, vous êtes vraiment un Stalker ?
+
+93
+00:14:58,001 --> 00:15:00,001
+Je vais tout vous expliquer.
+
+94
+00:15:08,709 --> 00:15:09,834
+Partez.
+
+95
+00:15:18,542 --> 00:15:19,626
+Crétin.
+
+96
+00:15:24,376 --> 00:15:26,209
+Vous vous êtes quand même saoulé.
+
+97
+00:15:26,751 --> 00:15:29,042
+Moi ? Que voulez-vous dire ?
+
+98
+00:15:29,459 --> 00:15:32,959
+J'ai juste bu un coup,
+comme le fait la moitié des gens.
+
+99
+00:15:33,167 --> 00:15:37,084
+L'autre moitié se saoule, oui.
+Femmes et enfants compris.
+
+100
+00:15:37,792 --> 00:15:39,626
+Moi, j'ai juste bu un coup.
+
+101
+00:16:02,376 --> 00:16:04,334
+C'est plein de flotte ici.
+
+102
+00:16:17,917 --> 00:16:20,376
+Prenez quelque chose,
+il y a le temps.
+
+103
+00:16:22,792 --> 00:16:26,126
+Un petit verre
+avant de prendre la route ?
+
+104
+00:16:28,084 --> 00:16:29,584
+Qu'en dites-vous ?
+
+105
+00:16:44,042 --> 00:16:45,376
+Rangez-moi ça.
+
+106
+00:16:45,876 --> 00:16:48,626
+Je vois. Régime sec.
+
+107
+00:16:48,834 --> 00:16:51,251
+"L'alcoolisme, fléau des peuples."
+
+108
+00:16:51,417 --> 00:16:53,292
+Eh bien, buvons de la bière.
+
+109
+00:16:55,959 --> 00:16:57,584
+Il vient avec nous ?
+
+110
+00:16:58,542 --> 00:17:01,959
+Il dessaoulera.
+Lui aussi doit y aller.
+
+111
+00:17:10,126 --> 00:17:12,501
+Alors, vous êtes vraiment professeur ?
+
+112
+00:17:13,459 --> 00:17:14,834
+Si vous voulez.
+
+113
+00:17:15,042 --> 00:17:18,126
+Permettez alors que je me présente.
+
+114
+00:17:18,709 --> 00:17:21,501
+- Je m'appelle...
+- Vous vous appelez l'Écrivain.
+
+115
+00:17:22,126 --> 00:17:24,501
+Et moi, comment je m'appelle ?
+
+116
+00:17:24,709 --> 00:17:27,042
+Vous, vous êtes le Professeur.
+
+117
+00:17:28,626 --> 00:17:31,084
+Très bien, je suis écrivain,
+
+118
+00:17:31,292 --> 00:17:34,542
+alors naturellement,
+tout le monde me nomme ainsi.
+
+119
+00:17:34,876 --> 00:17:36,584
+Et quel est votre sujet ?
+
+120
+00:17:36,792 --> 00:17:38,292
+Les lecteurs.
+
+121
+00:17:38,709 --> 00:17:41,084
+Il n'y a pas d'autre sujet valable.
+
+122
+00:17:41,292 --> 00:17:44,542
+Écrire est inutile.
+Il n'y a pas de bons sujets.
+
+123
+00:17:45,501 --> 00:17:49,334
+Et vous, vous êtes chimiste ?
+
+124
+00:17:50,626 --> 00:17:52,167
+Plutôt physicien.
+
+125
+00:17:52,501 --> 00:17:56,334
+Ennuyeux aussi, j'imagine.
+La recherche de la vérité...
+
+126
+00:17:57,126 --> 00:18:00,084
+Elle se cache
+et vous la cherchez partout.
+
+127
+00:18:00,251 --> 00:18:01,834
+Vous creusez ici ou là.
+
+128
+00:18:02,001 --> 00:18:05,792
+Ici, vous découvrez que le noyau
+se compose de protons.
+
+129
+00:18:06,084 --> 00:18:07,917
+Là, ô merveille,
+
+130
+00:18:08,292 --> 00:18:12,167
+le triangle ABC est égal
+au triangle A'B'C'.
+
+131
+00:18:13,042 --> 00:18:15,042
+Pour moi, c'est différent.
+
+132
+00:18:16,376 --> 00:18:19,542
+Cette vérité,
+pendant que je la déterre,
+
+133
+00:18:19,751 --> 00:18:21,834
+il lui arrive quelque chose.
+
+134
+00:18:22,042 --> 00:18:24,292
+Je pensais déterrer la vérité,
+
+135
+00:18:24,584 --> 00:18:28,459
+mais entre-temps cela devient
+un tas de... vous savez quoi.
+
+136
+00:18:34,626 --> 00:18:36,334
+Pour vous tout va bien.
+
+137
+00:18:36,876 --> 00:18:40,042
+Regardez ce pot antique
+dans un musée.
+
+138
+00:18:40,251 --> 00:18:42,751
+Jadis, on y jetait des ordures.
+
+139
+00:18:43,167 --> 00:18:47,001
+Aujourd'hui, il suscite
+l'admiration générale
+
+140
+00:18:47,209 --> 00:18:50,876
+par la sobriété de son dessin
+et sa forme incomparable.
+
+141
+00:18:51,084 --> 00:18:53,042
+Tout le monde est en extase.
+
+142
+00:18:54,167 --> 00:18:57,709
+Puis, on découvre soudain
+qu'il n'a rien d'antique,
+
+143
+00:18:58,501 --> 00:19:02,667
+qu'il a été présenté aux archéologues
+par quelque farceur.
+
+144
+00:19:03,542 --> 00:19:04,917
+Histoire de rire.
+
+145
+00:19:05,084 --> 00:19:07,792
+Comme par hasard,
+plus personne ne s'extasie.
+
+146
+00:19:08,417 --> 00:19:09,751
+Fins connaisseurs !
+
+147
+00:19:09,959 --> 00:19:12,251
+Vous pensez à ça tout le temps ?
+
+148
+00:19:14,501 --> 00:19:15,917
+Dieu m'en garde.
+
+149
+00:19:16,709 --> 00:19:19,167
+Je pense peu, cela m'est néfaste.
+
+150
+00:19:19,626 --> 00:19:22,709
+Il est impossible d'écrire
+en pensant au succès
+
+151
+00:19:22,917 --> 00:19:24,584
+ou au contraire, à l'échec.
+
+152
+00:19:24,792 --> 00:19:25,792
+Bien sûr.
+
+153
+00:19:26,084 --> 00:19:29,792
+Mais si on ne lit pas mes livres
+dans cent ans,
+
+154
+00:19:30,001 --> 00:19:32,501
+pourquoi diable écrire, alors ?
+
+155
+00:19:34,167 --> 00:19:39,167
+Professeur, pourquoi vous être mêlé
+à cette histoire ?
+
+156
+00:19:39,376 --> 00:19:41,501
+Qu'attendez-vous de la Zone ?
+
+157
+00:19:43,626 --> 00:19:46,751
+D'une certaine façon,
+je suis chercheur.
+
+158
+00:19:48,876 --> 00:19:50,959
+Et vous, qu'en attendez-vous ?
+
+159
+00:19:52,167 --> 00:19:53,917
+Un écrivain à la mode.
+
+160
+00:19:54,959 --> 00:19:57,792
+Les femmes doivent se pendre
+à votre cou.
+
+161
+00:19:58,001 --> 00:20:02,834
+J'ai perdu l'inspiration, Professeur.
+Alors je vais mendier.
+
+162
+00:20:04,376 --> 00:20:06,667
+Comment ça ? Votre plume s'est tarie ?
+
+163
+00:20:06,834 --> 00:20:07,834
+Quoi ?
+
+164
+00:20:08,167 --> 00:20:10,917
+Oui, peut-être...
+On peut dire ça.
+
+165
+00:20:12,792 --> 00:20:13,959
+Vous entendez ?
+
+166
+00:20:15,126 --> 00:20:16,542
+C'est notre train.
+
+167
+00:20:23,501 --> 00:20:26,667
+- Le toit de la voiture est relevé ?
+- Oui, oui.
+
+168
+00:20:39,542 --> 00:20:40,584
+Luther ?
+
+169
+00:20:44,042 --> 00:20:46,959
+Si je ne reviens pas,
+passe voir ma femme.
+
+170
+00:21:01,876 --> 00:21:04,751
+Mince, j'ai oublié
+d'acheter des cigarettes.
+
+171
+00:21:06,376 --> 00:21:08,376
+Ne revenez pas sur vos pas.
+
+172
+00:21:09,459 --> 00:21:11,709
+- Pourquoi ?
+- Il ne faut pas.
+
+173
+00:21:12,251 --> 00:21:14,959
+- Vous êtes tous les mêmes.
+- C'est-à-dire ?
+
+174
+00:21:15,626 --> 00:21:17,959
+Vous croyez à toutes ces sornettes.
+
+175
+00:21:19,126 --> 00:21:21,626
+J'économise celles que j'ai, alors.
+
+176
+00:21:24,959 --> 00:21:27,126
+Vous êtes vraiment chercheur ?
+
+177
+00:23:04,251 --> 00:23:05,376
+Couchez-vous !
+
+178
+00:23:09,542 --> 00:23:10,834
+Ne bougez pas !
+
+179
+00:23:41,542 --> 00:23:43,542
+Regardez s'il y a quelqu'un.
+
+180
+00:23:49,126 --> 00:23:51,001
+Allons, pressez-vous !
+
+181
+00:23:57,001 --> 00:23:58,584
+Il n'y a personne.
+
+182
+00:23:58,917 --> 00:24:00,667
+Allez vers l'autre sortie.
+
+183
+00:24:27,834 --> 00:24:30,126
+Il y a encore quelqu'un, l'Écrivain.
+
+184
+00:26:41,417 --> 00:26:43,501
+Faites le guet, s'il vous plaît.
+
+185
+00:27:39,126 --> 00:27:41,251
+Vous n'avez pas oublié le jerrycan ?
+
+186
+00:27:41,709 --> 00:27:43,584
+Il est là, plein.
+
+187
+00:27:57,209 --> 00:28:00,292
+Ce que je vous disais tout à l'heure,
+
+188
+00:28:00,834 --> 00:28:02,459
+c'était des bêtises.
+
+189
+00:28:03,542 --> 00:28:05,917
+Je me foutais de l'inspiration.
+
+190
+00:28:06,459 --> 00:28:07,667
+Et ensuite...
+
+191
+00:28:08,001 --> 00:28:12,917
+D'ailleurs, comment nommer
+ce que je veux ?
+
+192
+00:28:13,626 --> 00:28:17,751
+Et comment savoir qu'en réalité,
+je ne veux pas ce que je veux ?
+
+193
+00:28:17,959 --> 00:28:22,542
+Ou que je ne veux vraiment pas
+ce que je ne veux pas ?
+
+194
+00:28:23,584 --> 00:28:25,626
+Ces choses sont insaisissables.
+
+195
+00:28:25,792 --> 00:28:29,667
+Il suffit de les nommer
+et leur sens disparaît et se dissout
+
+196
+00:28:29,834 --> 00:28:33,126
+comme une méduse au soleil.
+Vous avez déjà vu ça ?
+
+197
+00:28:34,126 --> 00:28:37,709
+Ma conscience veut que le monde entier
+devienne végétarien,
+
+198
+00:28:37,917 --> 00:28:41,584
+mais mon inconscient se languit
+d'un beau morceau de viande.
+
+199
+00:28:42,209 --> 00:28:44,417
+Qu'est-ce que je veux, moi ?
+
+200
+00:28:45,584 --> 00:28:46,542
+Dites-moi ?
+
+201
+00:28:46,709 --> 00:28:49,501
+L'hégémonie mondiale, au bas mot.
+
+202
+00:28:53,376 --> 00:28:55,709
+Que fait une locomotive dans la Zone ?
+
+203
+00:28:55,917 --> 00:28:59,667
+Elle dessert les postes de garde
+et n'ira pas plus loin.
+
+204
+00:29:00,251 --> 00:29:02,334
+Ils n'aiment pas y aller.
+
+205
+00:29:08,001 --> 00:29:09,584
+Tout le monde en place !
+
+206
+00:29:10,167 --> 00:29:11,626
+Tout le monde est là ?
+
+207
+00:29:13,126 --> 00:29:15,417
+Les veilleurs de nuit sont arrivés.
+
+208
+00:29:16,042 --> 00:29:18,376
+Éteignez la télévision !
+
+209
+00:30:25,292 --> 00:30:26,459
+Plus vite !
+
+210
+00:31:22,542 --> 00:31:23,834
+Écoutez bien.
+
+211
+00:31:24,376 --> 00:31:27,917
+Allez voir si la draisine
+est sur la voie.
+
+212
+00:31:28,126 --> 00:31:30,584
+- Quelle draisine ?
+- Allez-y !
+
+213
+00:31:53,334 --> 00:31:55,376
+Laissez, je vais le faire.
+
+214
+00:33:51,876 --> 00:33:53,001
+Le jerrycan !
+
+215
+00:34:22,126 --> 00:34:24,917
+Laissez tomber votre sac,
+il nous gêne.
+
+216
+00:34:25,126 --> 00:34:27,709
+C'est plutôt vous qui voyagez léger.
+
+217
+00:34:30,584 --> 00:34:33,751
+Si vous êtes touché,
+ne criez pas, ne bougez pas.
+
+218
+00:34:33,917 --> 00:34:35,834
+S'ils vous voient, ils vous tuent.
+
+219
+00:34:36,126 --> 00:34:39,876
+Plus tard, quand tout est calme,
+rampez vers le poste de garde.
+
+220
+00:34:40,084 --> 00:34:41,792
+On vous récupérera le matin.
+
+221
+00:34:57,626 --> 00:35:00,626
+- Ils ne nous rattraperont pas ?
+- Impossible.
+
+222
+00:35:01,251 --> 00:35:03,542
+Ils en ont peur comme de la peste.
+
+223
+00:35:04,209 --> 00:35:05,501
+Peur de qui ?
+
+224
+00:39:25,376 --> 00:39:26,417
+Voilà.
+
+225
+00:39:28,084 --> 00:39:29,667
+Nous sommes arrivés.
+
+226
+00:39:33,167 --> 00:39:34,459
+Quel silence.
+
+227
+00:39:37,292 --> 00:39:40,167
+C'est l'endroit le plus calme
+de la Terre.
+
+228
+00:39:41,667 --> 00:39:43,709
+Vous le verrez vous-mêmes.
+
+229
+00:39:45,626 --> 00:39:47,251
+C'est si beau ici.
+
+230
+00:39:47,542 --> 00:39:49,042
+Il n'y a personne.
+
+231
+00:39:49,417 --> 00:39:50,917
+Nous sommes là, nous.
+
+232
+00:39:51,126 --> 00:39:54,209
+Trois hommes ne peuvent pas
+tout souiller en un jour.
+
+233
+00:39:54,417 --> 00:39:56,876
+Comment ça ? Bien sûr que si.
+
+234
+00:40:00,584 --> 00:40:03,834
+Bizarre,
+les fleurs n'ont pas d'odeur.
+
+235
+00:40:04,459 --> 00:40:07,376
+Vous ne sentez pas ?
+
+236
+00:40:07,792 --> 00:40:10,376
+Ça pue la vase, c'est ce que je sens.
+
+237
+00:40:10,751 --> 00:40:13,417
+Ça c'est la rivière,
+elle est tout près.
+
+238
+00:40:14,459 --> 00:40:16,501
+Il y avait des fleurs pas loin.
+
+239
+00:40:16,709 --> 00:40:18,959
+Porc-épic les a écrasées un jour.
+
+240
+00:40:19,167 --> 00:40:20,667
+Rayées de la carte.
+
+241
+00:40:21,126 --> 00:40:23,667
+Mais l'odeur des fleurs est restée.
+
+242
+00:40:24,876 --> 00:40:26,376
+De longues années.
+
+243
+00:40:27,376 --> 00:40:30,167
+Pourquoi les a-t-il écrasées ?
+
+244
+00:40:30,959 --> 00:40:32,251
+Je ne sais pas.
+
+245
+00:40:34,126 --> 00:40:36,292
+Moi aussi je lui ai demandé.
+
+246
+00:40:37,334 --> 00:40:39,709
+Il a dit qu'un jour je comprendrai.
+
+247
+00:40:41,501 --> 00:40:45,792
+Je pense qu'il a simplement
+commencé à haïr la Zone.
+
+248
+00:40:49,959 --> 00:40:53,084
+C'est son vrai nom, Porc-épic ?
+
+249
+00:40:53,792 --> 00:40:56,501
+C'est un surnom, comme le vôtre.
+
+250
+00:40:58,167 --> 00:41:01,876
+Il a amené des gens dans la Zone
+pendant des années, il y tenait.
+
+251
+00:41:02,626 --> 00:41:04,042
+C'est mon maître.
+
+252
+00:41:05,376 --> 00:41:07,126
+Il m'a ouvert les yeux.
+
+253
+00:41:10,001 --> 00:41:13,042
+À l'époque,
+on ne l'appelait pas Porc-épic,
+
+254
+00:41:13,251 --> 00:41:14,792
+on l'appelait Maître.
+
+255
+00:41:16,709 --> 00:41:19,251
+Et puis, il a changé.
+
+256
+00:41:20,209 --> 00:41:22,251
+Quelque chose s'est brisé en lui.
+
+257
+00:41:23,709 --> 00:41:25,959
+À mon avis il a simplement été puni.
+
+258
+00:41:26,167 --> 00:41:30,376
+Pouvez-vous attacher
+ces bandelettes aux écrous ?
+
+259
+00:41:31,417 --> 00:41:35,209
+Moi, je vais aller faire un tour.
+
+260
+00:41:37,167 --> 00:41:38,417
+Je dois...
+
+261
+00:41:52,001 --> 00:41:54,876
+Ne vous éloignez pas trop.
+
+262
+00:42:00,917 --> 00:42:02,334
+Où va-t-il ?
+
+263
+00:42:03,876 --> 00:42:06,042
+Peut-être veut-il rester seul.
+
+264
+00:42:06,251 --> 00:42:07,292
+Pourquoi ?
+
+265
+00:42:07,751 --> 00:42:11,459
+Même tous les trois,
+on ne se sent pas très à l'aise ici.
+
+266
+00:42:13,251 --> 00:42:16,584
+Un rendez-vous avec la Zone.
+C'est un Stalker, lui.
+
+267
+00:42:17,959 --> 00:42:19,501
+Et alors ?
+
+268
+00:42:20,709 --> 00:42:24,834
+Être Stalker est une vocation,
+en quelque sorte.
+
+269
+00:42:25,501 --> 00:42:27,542
+Je l'imaginais différent.
+
+270
+00:42:27,876 --> 00:42:29,126
+Comment ?
+
+271
+00:42:29,334 --> 00:42:33,959
+Le genre <i>Histoires de Bas-de-Cuir,</i>
+<i>Chingachgook, Grand Serpent...</i>
+
+272
+00:42:34,209 --> 00:42:37,501
+Son histoire à lui
+est plus terrible que ça.
+
+273
+00:42:37,709 --> 00:42:41,126
+Il a fait plusieurs fois de la prison,
+il s'est blessé ici.
+
+274
+00:42:41,334 --> 00:42:44,834
+Sa fille est une mutante.
+"Victime de la Zone", comme on dit.
+
+275
+00:42:45,001 --> 00:42:46,959
+On dit qu'elle n'a pas de jambes.
+
+276
+00:42:50,959 --> 00:42:53,751
+Qu'en est-il de ce Porc-épic ?
+
+277
+00:42:54,626 --> 00:42:57,292
+Que signifie "Il a été puni"?
+
+278
+00:42:58,167 --> 00:43:00,209
+C'est une figure de style ?
+
+279
+00:43:02,917 --> 00:43:07,751
+Un jour, Porc-épic est revenu d'ici,
+de la Zone,
+
+280
+00:43:08,959 --> 00:43:11,542
+et subitement il est devenu riche.
+
+281
+00:43:13,042 --> 00:43:14,751
+Incroyablement riche.
+
+282
+00:43:14,917 --> 00:43:16,917
+C'est une punition, ça ?
+
+283
+00:43:18,417 --> 00:43:21,251
+Une semaine après, il s'est pendu.
+
+284
+00:43:21,709 --> 00:43:22,959
+Pourquoi ?
+
+285
+00:43:23,334 --> 00:43:24,501
+Chut !
+
+286
+00:43:27,667 --> 00:43:29,667
+Et ça, qu'est-ce que c'est ?
+
+287
+00:45:25,292 --> 00:45:27,584
+Il y a une vingtaine d'années,
+
+288
+00:45:27,792 --> 00:45:30,584
+une météorite serait tombée
+à cet endroit.
+
+289
+00:45:31,501 --> 00:45:33,917
+Le village a été réduit en cendres.
+
+290
+00:45:35,001 --> 00:45:36,751
+On a cherché cette météorite.
+
+291
+00:45:36,959 --> 00:45:39,417
+Bien sûr,
+elle n'a jamais été retrouvée.
+
+292
+00:45:41,334 --> 00:45:43,292
+Pourquoi "bien sûr"?
+
+293
+00:45:43,667 --> 00:45:46,501
+Puis, les gens se sont mis
+à disparaître.
+
+294
+00:45:47,251 --> 00:45:49,959
+Ils venaient ici
+et ne revenaient pas.
+
+295
+00:45:50,167 --> 00:45:51,376
+Et alors ?
+
+296
+00:45:52,042 --> 00:45:56,917
+Finalement, on a conclu
+que cette météorite
+
+297
+00:45:57,917 --> 00:45:59,959
+n'en était pas vraiment une.
+
+298
+00:46:00,709 --> 00:46:02,126
+Pour commencer,
+
+299
+00:46:05,209 --> 00:46:07,417
+ils ont posé des barbelés
+
+300
+00:46:07,959 --> 00:46:10,792
+pour que les curieux
+ne s'y aventurent pas.
+
+301
+00:46:13,334 --> 00:46:16,251
+Des rumeurs se sont alors répandues
+
+302
+00:46:16,417 --> 00:46:18,959
+qu'il y avait un endroit dans la Zone
+
+303
+00:46:21,417 --> 00:46:23,792
+où tous les désirs étaient exaucés.
+
+304
+00:46:24,292 --> 00:46:25,834
+Alors évidemment,
+
+305
+00:46:27,876 --> 00:46:31,292
+ils ont protégé la Zone
+comme la prunelle de leurs yeux.
+
+306
+00:46:32,751 --> 00:46:36,542
+Car il faut se méfier des désirs
+qui pourraient surgir.
+
+307
+00:46:37,292 --> 00:46:40,751
+Si ce n'était pas une météorite,
+qu'était-ce alors ?
+
+308
+00:46:43,751 --> 00:46:45,584
+Je le répète, on l'ignore.
+
+309
+00:46:47,084 --> 00:46:49,667
+Mais vous, qu'en pensez-vous ?
+
+310
+00:46:51,334 --> 00:46:52,834
+Je n'en pense rien.
+
+311
+00:46:53,667 --> 00:46:54,917
+Peu m'importe.
+
+312
+00:46:57,209 --> 00:47:01,042
+Ce serait un message à l'humanité,
+comme dit l'un de mes collègues.
+
+313
+00:47:01,542 --> 00:47:03,251
+Ou un cadeau.
+
+314
+00:47:08,209 --> 00:47:10,126
+Un drôle de cadeau.
+
+315
+00:47:11,376 --> 00:47:15,667
+- Pourquoi l'auraient-ils fait ?
+- Pour nous rendre heureux.
+
+316
+00:47:19,959 --> 00:47:24,209
+Les fleurs éclosent de nouveau,
+mais elles ne sentent plus.
+
+317
+00:47:25,167 --> 00:47:28,251
+Excusez-moi de vous avoir laissés ici,
+
+318
+00:47:28,667 --> 00:47:31,334
+mais il était encore trop tôt
+pour y aller.
+
+319
+00:47:34,751 --> 00:47:36,167
+Vous avez entendu ?
+
+320
+00:47:37,209 --> 00:47:39,917
+Ce serait donc vrai
+que des gens habitent ici ?
+
+321
+00:47:40,959 --> 00:47:42,167
+Qui ça ?
+
+322
+00:47:44,084 --> 00:47:46,667
+Vous me l'avez raconté vous-même.
+
+323
+00:47:46,876 --> 00:47:51,667
+Ces touristes qui se trouvaient ici,
+quand la Zone s'est créée.
+
+324
+00:47:52,251 --> 00:47:55,084
+Il ne peut y avoir personne
+dans la Zone.
+
+325
+00:47:59,834 --> 00:48:01,626
+Bon, il faut y aller.
+
+326
+00:48:48,626 --> 00:48:50,542
+Comment reviendrons-nous ?
+
+327
+00:48:51,126 --> 00:48:53,084
+Ici, on ne revient pas.
+
+328
+00:48:53,292 --> 00:48:54,584
+Comment ça ?
+
+329
+00:48:55,834 --> 00:48:58,209
+Nous avancerons comme convenu.
+
+330
+00:49:04,001 --> 00:49:06,501
+Chaque fois,
+j'indiquerai la direction.
+
+331
+00:49:06,959 --> 00:49:09,292
+Il est dangereux de s'en écarter.
+
+332
+00:49:11,542 --> 00:49:14,709
+Le premier point de repère
+est ce dernier poteau.
+
+333
+00:49:15,167 --> 00:49:16,334
+Allez-y.
+
+334
+00:49:16,834 --> 00:49:19,001
+Passez le premier, Professeur.
+
+335
+00:49:30,751 --> 00:49:32,084
+À vous, maintenant.
+
+336
+00:49:40,584 --> 00:49:42,542
+Marchez bien dans ses traces.
+
+337
+00:51:01,709 --> 00:51:04,751
+Mon Dieu, mais où sont...
+
+338
+00:51:05,292 --> 00:51:09,501
+Alors ils seraient restés ici,
+ces gens ?
+
+339
+00:51:09,876 --> 00:51:11,292
+Qui sait ?
+
+340
+00:51:12,584 --> 00:51:15,626
+Je me souviens juste qu'ils montaient
+dans des trains
+
+341
+00:51:15,834 --> 00:51:18,167
+pour venir ici, dans la Zone.
+
+342
+00:51:18,751 --> 00:51:20,542
+J'étais encore gosse.
+
+343
+00:51:21,167 --> 00:51:24,292
+Les gens croyaient qu'une invasion
+se préparait.
+
+344
+00:51:24,501 --> 00:51:25,667
+Quelle bêtise.
+
+345
+00:51:32,251 --> 00:51:33,959
+Allez-y, Professeur.
+
+346
+00:51:42,542 --> 00:51:44,084
+À vous, l'Écrivain.
+
+347
+00:54:14,251 --> 00:54:16,251
+La Chambre est là-bas.
+
+348
+00:54:18,126 --> 00:54:19,834
+C'est là que nous allons.
+
+349
+00:54:20,292 --> 00:54:24,751
+Vous avez un peu exagéré,
+c'est à deux pas.
+
+350
+00:54:26,501 --> 00:54:29,667
+Oui, mais il faudrait faire
+de très grands pas.
+
+351
+00:54:31,251 --> 00:54:33,042
+On n'en fait pas de si grands.
+
+352
+00:55:40,376 --> 00:55:42,042
+Arrêtez, c'est interdit !
+
+353
+00:55:43,834 --> 00:55:44,834
+Non.
+
+354
+00:55:45,042 --> 00:55:46,376
+N'y touchez pas !
+
+355
+00:55:49,084 --> 00:55:50,876
+N'y touchez pas, je vous dis !
+
+356
+00:55:51,417 --> 00:55:52,584
+Ça va pas ?
+
+357
+00:55:53,167 --> 00:55:54,376
+Vous êtes fou ?
+
+358
+00:55:54,751 --> 00:55:56,167
+Ça va pas ?
+
+359
+00:55:58,042 --> 00:56:00,709
+Ce n'est pas un lieu de promenade.
+
+360
+00:56:01,917 --> 00:56:04,834
+La Zone demande du respect,
+sinon elle châtie.
+
+361
+00:56:05,042 --> 00:56:06,126
+Elle châtie ?
+
+362
+00:56:06,334 --> 00:56:08,542
+Essayez donc encore une fois.
+
+363
+00:56:08,751 --> 00:56:10,792
+Vous avez perdu votre langue ?
+
+364
+00:56:12,251 --> 00:56:13,959
+Je vous l'avais demandé.
+
+365
+00:56:14,167 --> 00:56:15,459
+C'est par là ?
+
+366
+00:56:17,751 --> 00:56:20,584
+Oui, on monte, on entre,
+puis à gauche.
+
+367
+00:56:20,751 --> 00:56:22,626
+Mais ne passons pas par là.
+
+368
+00:56:23,709 --> 00:56:26,209
+Nous ferons le tour.
+
+369
+00:56:27,167 --> 00:56:28,626
+Et pourquoi ça ?
+
+370
+00:56:30,042 --> 00:56:33,709
+Dans la Zone, le chemin le plus droit
+n'est pas le plus court.
+
+371
+00:56:33,917 --> 00:56:36,292
+Plus on va loin, moins on risque.
+
+372
+00:56:36,751 --> 00:56:40,292
+- Tout droit, il y a danger de mort ?
+- C'est dangereux, vous dit-on.
+
+373
+00:56:40,501 --> 00:56:44,376
+- Et en faisant le tour ?
+- Ça l'est aussi. On ne passe pas ici.
+
+374
+00:56:44,584 --> 00:56:47,959
+Peu importe où on ne doit pas passer.
+Et si je veux...
+
+375
+00:56:48,167 --> 00:56:49,417
+Écoutez.
+
+376
+00:56:49,751 --> 00:56:53,459
+Pourquoi faire un détour,
+si c'est juste là ?
+
+377
+00:56:53,667 --> 00:56:55,709
+Il y a un risque de toute façon.
+
+378
+00:56:55,876 --> 00:56:57,042
+On s'en fiche.
+
+379
+00:56:57,251 --> 00:57:00,626
+Vous le prenez trop à la légère.
+
+380
+00:57:02,501 --> 00:57:05,751
+J'en ai marre de vos écrous
+et de vos bandelettes.
+
+381
+00:57:05,959 --> 00:57:09,667
+Faites ce que vous voulez,
+moi je passe par ici.
+
+382
+00:57:09,876 --> 00:57:12,834
+- Il a perdu la raison.
+- Vous pouvez parler...
+
+383
+00:57:13,459 --> 00:57:15,001
+Vous permettez ?
+
+384
+00:57:26,959 --> 00:57:28,709
+Le vent se lève.
+
+385
+00:57:30,501 --> 00:57:31,792
+Vous sentez ?
+
+386
+00:57:32,292 --> 00:57:33,459
+L'herbe.
+
+387
+00:57:42,001 --> 00:57:45,251
+Alors, raison de plus.
+
+388
+00:57:45,959 --> 00:57:47,626
+Comment ça ?
+
+389
+00:58:04,334 --> 00:58:06,876
+- Attendez.
+- Lâchez-moi.
+
+390
+00:58:07,959 --> 00:58:09,084
+Bien.
+
+391
+00:58:10,334 --> 00:58:13,417
+Mais alors,
+je prends le professeur à témoin.
+
+392
+00:58:13,626 --> 00:58:17,084
+Je ne vous ai pas envoyé,
+vous y allez de votre plein gré.
+
+393
+00:58:17,292 --> 00:58:19,501
+Parfaitement. Quoi encore ?
+
+394
+00:58:20,376 --> 00:58:22,792
+Rien, allez-y.
+
+395
+00:58:29,709 --> 00:58:32,167
+J'espère que vous aurez de la chance.
+
+396
+00:58:46,959 --> 00:58:48,251
+Écoutez.
+
+397
+00:58:48,917 --> 00:58:51,626
+Si soudain vous remarquez
+quelque chose
+
+398
+00:58:51,834 --> 00:58:55,042
+ou si vous ressentez
+quelque chose d'insolite,
+
+399
+00:58:55,209 --> 00:58:57,959
+revenez immédiatement, sinon...
+
+400
+00:58:58,167 --> 00:59:01,376
+Ne me jetez pas votre ferraille
+dans la nuque.
+
+401
+01:00:10,209 --> 01:00:11,876
+Halte, ne bougez pas.
+
+402
+01:00:16,834 --> 01:00:18,042
+Pourquoi ?
+
+403
+01:00:18,376 --> 01:00:20,001
+Comment ?
+
+404
+01:00:20,292 --> 01:00:22,667
+Pourquoi l'avez-vous arrêté ?
+
+405
+01:00:23,542 --> 01:00:25,751
+Je pensais que c'était vous.
+
+406
+01:01:05,292 --> 01:01:06,792
+Que s'est-il passé ?
+
+407
+01:01:07,751 --> 01:01:10,042
+Pourquoi m'avoir dit de m'arrêter ?
+
+408
+01:01:10,251 --> 01:01:14,042
+- Ce n'était pas moi.
+- Qui alors ? Vous ?
+
+409
+01:01:18,459 --> 01:01:20,251
+Que diable...
+
+410
+01:01:22,751 --> 01:01:25,459
+Chapeau, camarade Shakespeare !
+
+411
+01:01:25,667 --> 01:01:28,584
+Avancer vous faisait peur,
+reculer vous faisait honte,
+
+412
+01:01:28,792 --> 01:01:32,334
+alors vous vous êtes donné cet ordre
+d'une voix déguisée.
+
+413
+01:01:32,542 --> 01:01:34,959
+La peur vous a même fait dessaouler.
+
+414
+01:01:35,167 --> 01:01:36,709
+- Quoi ?
+- Ça suffit.
+
+415
+01:01:37,167 --> 01:01:41,126
+- Et ma bouteille ?
+- Ça suffit, je vous dis !
+
+416
+01:01:56,667 --> 01:02:00,959
+La Zone est un système très complexe
+
+417
+01:02:03,876 --> 01:02:05,251
+de pièges.
+
+418
+01:02:06,084 --> 01:02:07,792
+Ils sont tous mortels.
+
+419
+01:02:10,501 --> 01:02:13,834
+J'ignore ce qui se passe
+en l'absence des hommes,
+
+420
+01:02:14,042 --> 01:02:16,417
+mais dès qu'ils apparaissent,
+
+421
+01:02:16,834 --> 01:02:19,417
+tout se met en mouvement.
+
+422
+01:02:22,042 --> 01:02:25,209
+Des pièges disparaissent,
+d'autres les remplacent.
+
+423
+01:02:26,542 --> 01:02:29,876
+Les endroits qui étaient sûrs
+deviennent infranchissables.
+
+424
+01:02:30,792 --> 01:02:33,626
+Le chemin est tantôt
+simple et facile,
+
+425
+01:02:33,792 --> 01:02:35,917
+tantôt semé d'embûches.
+
+426
+01:02:40,501 --> 01:02:42,042
+C'est ça, la Zone.
+
+427
+01:02:43,584 --> 01:02:46,792
+On pourrait la croire capricieuse,
+
+428
+01:02:48,334 --> 01:02:50,417
+mais elle est juste à chaque instant
+
+429
+01:02:50,626 --> 01:02:53,084
+le produit de notre propre
+état d'esprit.
+
+430
+01:02:55,376 --> 01:02:57,709
+J'avoue qu'il est arrivé que des gens
+
+431
+01:02:57,876 --> 01:03:01,417
+abandonnent à mi-chemin
+et repartent bredouilles.
+
+432
+01:03:02,376 --> 01:03:05,876
+D'autres sont morts au seuil même
+de la Chambre.
+
+433
+01:03:06,959 --> 01:03:10,501
+Tout ce qui se passe ici ne dépend pas
+de la Zone, mais de nous.
+
+434
+01:03:10,709 --> 01:03:14,376
+Elle laisse passer les bons
+et anéantit les méchants ?
+
+435
+01:03:16,001 --> 01:03:17,251
+Je ne sais pas.
+
+436
+01:03:17,459 --> 01:03:22,709
+Je crois qu'elle laisse passer
+ceux qui n'ont plus aucun espoir.
+
+437
+01:03:23,376 --> 01:03:25,709
+Ce ne sont pas les bons
+ou les mauvais.
+
+438
+01:03:26,292 --> 01:03:27,876
+Les malheureux, plutôt.
+
+439
+01:03:28,751 --> 01:03:31,251
+Mais même le plus malheureux
+périra vite
+
+440
+01:03:31,459 --> 01:03:33,334
+s'il ne sait pas se conduire.
+
+441
+01:03:42,917 --> 01:03:46,584
+Vous avez de la chance
+qu'elle vous ait prévenu.
+
+442
+01:03:50,959 --> 01:03:53,959
+Vous savez,
+je préfère vous attendre ici
+
+443
+01:03:54,876 --> 01:03:57,209
+jusqu'à ce que vous reveniez
+
+444
+01:03:58,167 --> 01:04:00,042
+comblés de félicité.
+
+445
+01:04:00,626 --> 01:04:02,292
+C'est impossible.
+
+446
+01:04:02,542 --> 01:04:05,584
+Mais si, j'ai des sandwichs,
+un thermos.
+
+447
+01:04:05,792 --> 01:04:07,876
+Sans moi,
+vous ne tiendrez pas une heure.
+
+448
+01:04:08,084 --> 01:04:09,084
+Et ensuite ?
+
+449
+01:04:09,292 --> 01:04:12,209
+On ne revient pas par le chemin
+de l'aller.
+
+450
+01:04:14,251 --> 01:04:16,251
+Je préférerais quand même...
+
+451
+01:04:16,459 --> 01:04:18,876
+Alors repartons tous ensemble.
+
+452
+01:04:19,459 --> 01:04:21,376
+Je vous rendrai votre argent.
+
+453
+01:04:21,584 --> 01:04:25,667
+J'en déduirai une partie
+pour le dérangement.
+
+454
+01:04:26,751 --> 01:04:29,084
+Vous voilà dégrisé, Professeur ?
+
+455
+01:04:34,084 --> 01:04:37,001
+Très bien, jetez votre écrou.
+
+456
+01:05:29,876 --> 01:05:33,376
+Deuxième partie
+
+457
+01:05:35,751 --> 01:05:41,542
+STALKER
+
+458
+01:05:44,334 --> 01:05:47,334
+Où êtes-vous ? Venez par ici.
+
+459
+01:05:52,709 --> 01:05:54,501
+Vous êtes fatigués ?
+
+460
+01:06:10,084 --> 01:06:11,667
+Mon Dieu !
+
+461
+01:06:15,292 --> 01:06:19,959
+À en juger par son ton,
+il va encore nous dire quoi faire.
+
+462
+01:06:39,501 --> 01:06:42,084
+Que ce qui est planifié
+s'accomplisse.
+
+463
+01:06:43,501 --> 01:06:45,334
+Puissent-ils croire
+
+464
+01:06:47,459 --> 01:06:50,334
+et rire de leurs propres passions.
+
+465
+01:06:51,042 --> 01:06:55,542
+Car ce qu'ils nomment passions
+n'est pas la force de l'âme,
+
+466
+01:06:55,751 --> 01:06:59,292
+mais une friction entre l'âme
+et le monde extérieur.
+
+467
+01:07:00,334 --> 01:07:03,626
+L'essentiel est qu'ils croient
+en eux-mêmes
+
+468
+01:07:04,501 --> 01:07:07,626
+et deviennent fragiles
+comme des enfants.
+
+469
+01:07:08,251 --> 01:07:12,376
+Car la faiblesse est grande
+tandis que la force est minime.
+
+470
+01:07:17,042 --> 01:07:20,334
+L'homme, en venant au monde,
+est faible et souple.
+
+471
+01:07:21,001 --> 01:07:23,792
+Quand il meurt, il est fort et dur.
+
+472
+01:07:25,376 --> 01:07:28,542
+L'arbre qui pousse
+est tendre et souple.
+
+473
+01:07:28,834 --> 01:07:32,834
+Devenu sec et dur, il meurt.
+
+474
+01:07:34,417 --> 01:07:38,626
+La dureté et la force
+sont les compagnons de la mort.
+
+475
+01:07:40,084 --> 01:07:44,126
+La souplesse et la faiblesse
+expriment la fraîcheur de la vie.
+
+476
+01:07:45,542 --> 01:07:49,667
+C'est pourquoi ce qui est durci
+ne vaincra jamais.
+
+477
+01:08:09,959 --> 01:08:11,334
+Venez par ici !
+
+478
+01:08:13,542 --> 01:08:15,417
+Nous avons bien marché.
+
+479
+01:08:15,626 --> 01:08:18,042
+Au tunnel sec, ce sera plus facile.
+
+480
+01:08:18,209 --> 01:08:20,042
+Vous avez parlé trop vite.
+
+481
+01:08:20,251 --> 01:08:22,167
+Nous avançons déjà ?
+
+482
+01:08:22,501 --> 01:08:24,834
+Bien sûr. Pourquoi ?
+
+483
+01:08:25,042 --> 01:08:30,292
+Je pensais que vous vouliez juste
+nous montrer quelque chose ici.
+
+484
+01:08:30,501 --> 01:08:33,792
+- Et mon sac à dos ?
+- Qu'est-il arrivé à votre sac ?
+
+485
+01:08:34,001 --> 01:08:38,001
+Je l'ai laissé là-bas.
+Je ne savais pas qu'on avançait.
+
+486
+01:08:38,584 --> 01:08:42,959
+- On n'y peut plus rien.
+- Si, il faut qu'on y retourne.
+
+487
+01:08:43,167 --> 01:08:45,501
+- Impossible.
+- Il me faut mon sac !
+
+488
+01:08:45,667 --> 01:08:50,167
+On ne revient ni en arrière
+ni par le même chemin.
+
+489
+01:08:52,084 --> 01:08:55,709
+Au diable ce sac.
+Qu'avez-vous dedans, des diamants ?
+
+490
+01:08:55,917 --> 01:08:59,501
+Vous oubliez que la Chambre
+vous donnera tout ce que vous voulez.
+
+491
+01:08:59,667 --> 01:09:03,417
+Des sacs à dos en pagaille
+si vous voulez.
+
+492
+01:09:03,626 --> 01:09:05,876
+C'est encore loin, cette Chambre ?
+
+493
+01:09:06,334 --> 01:09:09,626
+En ligne droite,
+ce serait à 200 mètres.
+
+494
+01:09:09,834 --> 01:09:12,417
+Mais il n'y a pas
+de lignes droites ici.
+
+495
+01:09:13,917 --> 01:09:17,167
+Oubliez votre empirisme incessant,
+Professeur.
+
+496
+01:09:17,959 --> 01:09:20,584
+Les miracles sont en dehors
+de l'empirisme.
+
+497
+01:09:21,959 --> 01:09:25,126
+Rappelez-vous que saint Pierre
+a failli se noyer.
+
+498
+01:09:29,542 --> 01:09:31,167
+Allez-y, l'Écrivain.
+
+499
+01:09:33,167 --> 01:09:34,459
+Où ça ?
+
+500
+01:09:35,334 --> 01:09:36,959
+Montez cet escalier.
+
+501
+01:09:47,417 --> 01:09:49,751
+Professeur, où êtes-vous passé ?
+
+502
+01:11:40,917 --> 01:11:42,709
+Et voilà le tunnel sec.
+
+503
+01:11:43,084 --> 01:11:44,917
+Vous appelez ça sec ?
+
+504
+01:11:46,751 --> 01:11:48,459
+Plaisanterie locale.
+
+505
+01:11:49,251 --> 01:11:51,834
+D'habitude,
+il faut passer à la nage.
+
+506
+01:12:20,667 --> 01:12:22,709
+Mais où est le Professeur ?
+
+507
+01:12:22,917 --> 01:12:23,917
+Quoi ?
+
+508
+01:12:24,667 --> 01:12:26,209
+Le Professeur a disparu.
+
+509
+01:12:26,417 --> 01:12:27,876
+Professeur ! Professeur !
+
+510
+01:12:28,334 --> 01:12:31,042
+Il marchait derrière vous, pourtant.
+
+511
+01:12:31,709 --> 01:12:34,959
+Il a dû s'arrêter quelque part
+et il s'est perdu.
+
+512
+01:12:35,167 --> 01:12:38,709
+Non, il a dû aller chercher son sac.
+
+513
+01:12:39,417 --> 01:12:41,626
+Il ne pourra pas s'en sortir.
+
+514
+01:12:42,626 --> 01:12:43,876
+On l'attend ici ?
+
+515
+01:12:44,084 --> 01:12:47,417
+Non, pas ici.
+Tout change à chaque instant.
+
+516
+01:12:47,667 --> 01:12:49,209
+On continue à deux.
+
+517
+01:13:18,876 --> 01:13:21,626
+Regardez, qu'est-ce que c'est ?
+
+518
+01:13:21,834 --> 01:13:25,292
+- Je vous l'ai pourtant expliqué.
+- Expliqué ?
+
+519
+01:13:25,459 --> 01:13:27,542
+C'est la Zone, vous comprenez.
+
+520
+01:13:27,959 --> 01:13:30,876
+Vite, venez vite.
+
+521
+01:13:51,959 --> 01:13:53,292
+Le voilà.
+
+522
+01:14:06,876 --> 01:14:10,667
+Je vous suis très reconnaissant
+d'avoir...
+
+523
+01:14:10,834 --> 01:14:12,709
+Comment êtes-vous arrivé ici ?
+
+524
+01:14:14,876 --> 01:14:17,292
+Une grande partie du chemin,
+
+525
+01:14:18,959 --> 01:14:21,001
+j'ai rampé à quatre pattes.
+
+526
+01:14:22,084 --> 01:14:25,084
+Incroyable.
+Comment nous avez-vous devancés ?
+
+527
+01:14:26,334 --> 01:14:28,501
+Comment ça, devancés ?
+
+528
+01:14:29,584 --> 01:14:32,709
+Je suis revenu chercher mon sac à dos.
+
+529
+01:14:34,167 --> 01:14:36,626
+Notre écrou, que fait-il ici ?
+
+530
+01:14:39,292 --> 01:14:40,417
+Seigneur.
+
+531
+01:14:42,459 --> 01:14:43,959
+C'est un piège.
+
+532
+01:14:47,959 --> 01:14:51,959
+Porc-épic a accroché
+un écrou ici exprès.
+
+533
+01:14:55,417 --> 01:14:59,834
+Comment la Zone nous a-t-elle
+laissés passer ?
+
+534
+01:15:08,542 --> 01:15:11,126
+Je ne ferai plus un pas tant que...
+
+535
+01:15:12,167 --> 01:15:13,792
+Ça alors.
+
+536
+01:15:19,167 --> 01:15:20,501
+Ça suffit.
+
+537
+01:15:21,959 --> 01:15:23,334
+Repos.
+
+538
+01:15:35,834 --> 01:15:40,126
+Tenez-vous loin de l'écrou,
+on ne sait jamais.
+
+539
+01:15:41,376 --> 01:15:45,584
+J'ai bien cru que le Professeur
+ne s'en sortirait pas.
+
+540
+01:15:48,959 --> 01:15:53,292
+Je ne sais jamais à l'avance
+quelles personnes je conduis.
+
+541
+01:15:53,459 --> 01:15:55,376
+Tout se précise ici,
+
+542
+01:15:56,042 --> 01:15:58,042
+quand il est trop tard.
+
+543
+01:15:58,876 --> 01:16:01,709
+Ne vous en faites pas pour nous,
+tout va bien.
+
+544
+01:16:01,917 --> 01:16:04,459
+Sac et caleçons sont sains et saufs.
+
+545
+01:16:05,292 --> 01:16:10,417
+N'y fourrez pas votre nez,
+si vous ne comprenez pas.
+
+546
+01:16:10,626 --> 01:16:13,251
+Qu'y a-t-il à comprendre exactement ?
+
+547
+01:16:13,834 --> 01:16:15,626
+Les lois de Newton...
+
+548
+01:16:17,334 --> 01:16:20,126
+Quelle affaire !
+Étudier les abîmes psychologiques.
+
+549
+01:16:20,334 --> 01:16:22,917
+À l'Institut, on est mal vu.
+
+550
+01:16:23,084 --> 01:16:26,459
+On ne donne pas de fonds
+pour les expéditions,
+
+551
+01:16:26,667 --> 01:16:31,084
+alors on bourre son sac de manomètres
+et merdomètres,
+
+552
+01:16:32,751 --> 01:16:35,501
+pour pénétrer illégalement
+dans la Zone,
+
+553
+01:16:36,626 --> 01:16:39,126
+croire à ses miracles
+grâce à l'algèbre.
+
+554
+01:16:41,834 --> 01:16:45,209
+Personne au monde ne connaît
+l'existence de la Zone.
+
+555
+01:16:45,417 --> 01:16:47,667
+Alors, ça fait sensation.
+
+556
+01:16:48,751 --> 01:16:52,167
+La télévision, les admiratrices
+qui bavent devant vous,
+
+557
+01:16:52,376 --> 01:16:54,334
+les couronnes de laurier...
+
+558
+01:16:55,167 --> 01:17:00,001
+Apparaît le professeur,
+tout de blanc vêtu,
+
+559
+01:17:00,417 --> 01:17:01,876
+qui annonce :
+
+560
+01:17:02,167 --> 01:17:04,626
+"Mane, Thecel, Phares".
+
+561
+01:17:05,917 --> 01:17:07,667
+Les gens sont sidérés
+
+562
+01:17:08,626 --> 01:17:13,292
+et hurlent en chœur :
+"Donnez-lui le prix Nobel".
+
+563
+01:17:15,709 --> 01:17:18,376
+Minable scribouillard.
+
+564
+01:17:19,042 --> 01:17:21,417
+Psychologue à la noix.
+
+565
+01:17:22,292 --> 01:17:25,709
+Écrivez donc
+sur les murs des chiottes.
+
+566
+01:17:26,334 --> 01:17:28,126
+Baratineur de bas étage.
+
+567
+01:17:29,084 --> 01:17:33,126
+C'est mou, tout ça.
+Vous n'êtes pas à la hauteur.
+
+568
+01:17:34,751 --> 01:17:37,126
+Vous ne savez pas y faire.
+
+569
+01:17:37,876 --> 01:17:41,126
+D'accord.
+Disons que je vise un prix Nobel.
+
+570
+01:17:41,709 --> 01:17:44,167
+Et vous, vous courez après quoi ?
+
+571
+01:17:44,792 --> 01:17:50,042
+Vous voulez offrir à l'humanité
+les perles de votre vénale inspiration ?
+
+572
+01:17:51,209 --> 01:17:53,292
+Je me fous de l'humanité.
+
+573
+01:17:54,167 --> 01:17:58,959
+Une seule personne m'intéresse
+dans toute cette humanité : moi.
+
+574
+01:17:59,167 --> 01:18:02,626
+Je tiens à savoir
+si je vaux quelque chose
+
+575
+01:18:02,834 --> 01:18:05,959
+ou si je suis une merde,
+comme certains le sont.
+
+576
+01:18:06,959 --> 01:18:10,501
+Et si vous découvrez
+que vous êtes en fait...
+
+577
+01:18:10,709 --> 01:18:13,001
+Vous savez, Monsieur Einstein,
+
+578
+01:18:13,667 --> 01:18:16,334
+je ne souhaite pas discuter avec vous.
+
+579
+01:18:18,834 --> 01:18:23,126
+De la discussion jaillit la vérité.
+Qu'elle soit maudite.
+
+580
+01:18:26,084 --> 01:18:28,959
+Écoutez, Chingachgook.
+
+581
+01:18:32,376 --> 01:18:36,292
+Vous avez conduit des tas de gens ici.
+
+582
+01:18:38,501 --> 01:18:40,834
+Pas autant que j'aurais voulu.
+
+583
+01:18:41,751 --> 01:18:43,751
+Là n'est pas la question.
+
+584
+01:18:43,959 --> 01:18:47,251
+Pourquoi venaient-ils ici ?
+Que voulaient-ils ?
+
+585
+01:18:47,459 --> 01:18:52,959
+- Trouver leur bonheur, je pense.
+- Quel genre de bonheur ?
+
+586
+01:18:55,917 --> 01:18:59,334
+Les gens ne parlent pas
+de ce qui leur est le plus cher.
+
+587
+01:19:00,417 --> 01:19:03,251
+Et ça ne nous regarde pas,
+ni vous ni moi.
+
+588
+01:19:04,334 --> 01:19:07,042
+Vous avez bien de la chance
+en tout cas.
+
+589
+01:19:07,251 --> 01:19:11,209
+De ma vie je n'ai jamais rencontré
+un seul homme heureux.
+
+590
+01:19:11,584 --> 01:19:12,917
+Moi non plus.
+
+591
+01:19:14,001 --> 01:19:17,292
+Ils sortent de la Chambre,
+je les reconduis
+
+592
+01:19:17,501 --> 01:19:20,084
+et on ne se revoit plus jamais.
+
+593
+01:19:22,167 --> 01:19:25,292
+Les désirs ne se réalisent pas
+immédiatement.
+
+594
+01:19:26,126 --> 01:19:28,292
+Et vous, cette Chambrette
+
+595
+01:19:28,501 --> 01:19:32,042
+ne vous a jamais tenté
+personnellement ?
+
+596
+01:19:37,126 --> 01:19:39,292
+Je suis bien comme je suis.
+
+597
+01:20:31,584 --> 01:20:34,042
+Professeur, écoutez-moi.
+
+598
+01:20:36,167 --> 01:20:39,334
+À propos de l'inspiration vénale.
+
+599
+01:20:41,959 --> 01:20:44,792
+Admettons que j'entre
+dans cette Chambre,
+
+600
+01:20:44,959 --> 01:20:49,167
+et que je revienne
+dans notre petite ville en vrai génie.
+
+601
+01:20:56,376 --> 01:21:00,792
+L'homme écrit parce qu'il souffre,
+il doute.
+
+602
+01:21:03,084 --> 01:21:06,959
+Il doit sans cesse prouver aux autres
+et à lui-même
+
+603
+01:21:07,167 --> 01:21:09,292
+qu'il vaut quelque chose.
+
+604
+01:21:11,709 --> 01:21:15,167
+Or, si je sais avec certitude
+que je suis un génie,
+
+605
+01:21:17,251 --> 01:21:19,376
+alors pourquoi écrire ?
+
+606
+01:21:21,792 --> 01:21:23,501
+À quoi bon ?
+
+607
+01:21:26,709 --> 01:21:32,417
+D'ailleurs je dois vous dire
+que nous existons uniquement pour...
+
+608
+01:21:32,584 --> 01:21:36,126
+Soyez gentil, laissez-moi tranquille.
+
+609
+01:21:37,834 --> 01:21:42,126
+Laissez-moi somnoler au moins,
+je n'ai pas dormi de la nuit.
+
+610
+01:21:43,167 --> 01:21:45,626
+Gardez vos complexes pour vous.
+
+611
+01:21:46,542 --> 01:21:48,626
+De toute façon,
+
+612
+01:21:49,959 --> 01:21:51,751
+toute votre technologie,
+
+613
+01:21:55,084 --> 01:21:57,667
+ces hauts fourneaux, ces roues,
+
+614
+01:21:59,667 --> 01:22:03,584
+et tout ce remue-ménage,
+
+615
+01:22:03,792 --> 01:22:07,626
+en vue de travailler moins
+et bouffer davantage,
+
+616
+01:22:09,251 --> 01:22:12,167
+ne sont que béquilles et prothèses.
+
+617
+01:22:14,959 --> 01:22:18,584
+L'humanité existe pour créer.
+
+618
+01:22:21,084 --> 01:22:23,376
+Créer des œuvres d'art.
+
+619
+01:22:25,292 --> 01:22:27,334
+Ça ne lui apporte rien,
+
+620
+01:22:27,542 --> 01:22:30,667
+contrairement
+aux autres actions humaines.
+
+621
+01:22:32,876 --> 01:22:35,251
+Quelles grandes illusions.
+
+622
+01:22:35,459 --> 01:22:38,292
+Images d'une vérité absolue.
+
+623
+01:22:40,084 --> 01:22:42,667
+Vous m'écoutez, Professeur ?
+
+624
+01:22:44,167 --> 01:22:45,917
+De quel altruisme parlez-vous
+
+625
+01:22:46,126 --> 01:22:49,417
+alors que des gens
+meurent encore de faim ?
+
+626
+01:22:49,626 --> 01:22:51,709
+Vous débarquez d'où, de la lune ?
+
+627
+01:23:01,167 --> 01:23:04,792
+C'est ça, notre aristocratie
+intellectuelle ?
+
+628
+01:23:06,459 --> 01:23:09,584
+Vous ne savez pas raisonner
+de façon abstraite.
+
+629
+01:23:11,209 --> 01:23:13,501
+Est-ce que vous essayez
+
+630
+01:23:14,459 --> 01:23:17,376
+de m'apprendre le sens de la vie ?
+
+631
+01:23:20,251 --> 01:23:22,501
+Et à raisonner, dans la foulée ?
+
+632
+01:23:23,292 --> 01:23:24,876
+C'est inutile.
+
+633
+01:23:27,042 --> 01:23:30,001
+Bien que professeur,
+vous êtes ignare.
+
+634
+01:24:19,501 --> 01:24:23,792
+<i>Il y eut alors un violent
+tremblement de terre</i>
+
+635
+01:24:25,209 --> 01:24:28,751
+<i>Le soleil devint sombre
+tel un cilice</i>
+
+636
+01:24:29,626 --> 01:24:31,834
+<i>Et la lune devint
+rouge comme le sang</i>
+
+637
+01:24:33,876 --> 01:24:37,626
+<i>Les étoiles du ciel
+tombèrent sur la Terre</i>
+
+638
+01:24:37,834 --> 01:24:41,667
+<i>comme un figuier secoué
+par un vent violent</i>
+
+639
+01:24:42,126 --> 01:24:45,876
+<i>dont les figues, encore vertes,
+tombent à terre.</i>
+
+640
+01:24:46,626 --> 01:24:50,334
+<i>Et le ciel disparut,
+comme un parchemin qu'on roule.</i>
+
+641
+01:24:50,959 --> 01:24:55,209
+<i>Les montagnes
+et les îles s'arrachèrent</i>
+
+642
+01:24:55,417 --> 01:24:57,417
+<i>de leurs places...</i>
+
+643
+01:25:01,501 --> 01:25:06,167
+<i>Les rois de la Terre
+et les grands de ce monde</i>
+
+644
+01:25:07,084 --> 01:25:10,834
+<i>et les riches et les chiliarques,</i>
+
+645
+01:25:11,292 --> 01:25:16,501
+<i>les hommes forts et les hommes libres</i>
+
+646
+01:25:17,417 --> 01:25:21,292
+<i>se cachèrent dans les cavernes
+et dans les gorges</i>
+
+647
+01:25:21,501 --> 01:25:25,584
+<i>disant aux montagnes
+et aux pierres : "Tombez sur nous</i>
+
+648
+01:25:25,792 --> 01:25:29,917
+<i>"et cachez-nous
+de celui qui siège sur le trône,</i>
+
+649
+01:25:30,376 --> 01:25:33,209
+<i>"épargnez-nous la colère de l'Agneau.</i>
+
+650
+01:25:33,376 --> 01:25:36,834
+<i>"Car est arrivé
+le grand jour de Sa colère.</i>
+
+651
+01:25:37,751 --> 01:25:41,417
+<i>Qui donc pourra survivre ?"</i>
+
+652
+01:28:42,876 --> 01:28:44,459
+Ce jour-là,
+
+653
+01:28:46,584 --> 01:28:48,334
+deux d'entre eux
+
+654
+01:28:50,042 --> 01:28:54,376
+allaient à un village éloigné
+de soixante stades
+
+655
+01:28:55,209 --> 01:28:57,042
+appelé...
+
+656
+01:28:57,876 --> 01:29:01,667
+et s'entretenaient
+de tout ce qui s'était passé.
+
+657
+01:29:01,876 --> 01:29:05,001
+Et pendant qu'ils parlaient,
+
+658
+01:29:05,209 --> 01:29:09,334
+lui s'approcha et fit route avec eux.
+
+659
+01:29:09,876 --> 01:29:14,251
+Mais leurs yeux étaient retenus,
+si bien qu'ils ne le reconnurent pas.
+
+660
+01:29:15,417 --> 01:29:17,834
+Il leur dit : "De quoi parlez-vous
+
+661
+01:29:20,209 --> 01:29:23,751
+et pourquoi êtes-vous tristes ?"
+
+662
+01:29:24,626 --> 01:29:26,584
+l'un deux, appelé...
+
+663
+01:29:40,792 --> 01:29:42,334
+Vous voilà réveillés ?
+
+664
+01:29:48,417 --> 01:29:50,376
+Vous parliez du sens
+
+665
+01:29:52,084 --> 01:29:54,292
+de notre vie.
+
+666
+01:29:55,626 --> 01:29:57,501
+De l'art désintéressé.
+
+667
+01:30:01,584 --> 01:30:03,584
+La musique, par exemple.
+
+668
+01:30:09,667 --> 01:30:12,667
+Elle est la moins liée à la réalité.
+
+669
+01:30:13,459 --> 01:30:17,376
+Quand elle l'est,
+c'est sans idéologie, mécaniquement.
+
+670
+01:30:17,584 --> 01:30:21,292
+Par un son vide, sans associations.
+
+671
+01:30:26,417 --> 01:30:29,626
+Et pourtant, la musique,
+comme par miracle,
+
+672
+01:30:30,167 --> 01:30:32,542
+pénètre jusqu'au fond de l'âme.
+
+673
+01:30:35,667 --> 01:30:39,709
+Que fait résonner en nous
+ce bruit devenu harmonie ?
+
+674
+01:30:40,542 --> 01:30:44,209
+Et le transforme en source
+d'extrême volupté
+
+675
+01:30:44,917 --> 01:30:47,751
+qui nous unit et nous bouleverse ?
+
+676
+01:30:49,292 --> 01:30:53,417
+Pourquoi tout cela et surtout,
+pour qui ?
+
+677
+01:30:56,917 --> 01:31:00,334
+Vous répondrez que c'est
+pour personne et pour rien,
+
+678
+01:31:00,834 --> 01:31:02,376
+que c'est désintéressé.
+
+679
+01:31:04,001 --> 01:31:05,417
+Eh bien, non.
+
+680
+01:31:06,959 --> 01:31:08,459
+C'est peu probable.
+
+681
+01:31:10,626 --> 01:31:13,626
+Car tout a un sens, finalement.
+
+682
+01:31:15,709 --> 01:31:19,167
+Un sens et une raison d'être.
+
+683
+01:31:48,709 --> 01:31:52,042
+C'est par là qu'il faut aller ?
+
+684
+01:31:54,751 --> 01:31:58,584
+Hélas, il n'y a pas d'autre voie.
+
+685
+01:32:14,209 --> 01:32:18,542
+C'est plutôt sombre,
+n'est-ce pas, Professeur ?
+
+686
+01:32:22,709 --> 01:32:25,626
+Je ne tiens pas à m'y aventurer
+le premier.
+
+687
+01:32:26,584 --> 01:32:29,334
+Grand-Serpent
+ne se porte pas volontaire.
+
+688
+01:32:31,126 --> 01:32:35,876
+Pardon, nous devrons tirer au sort.
+Vous n'êtes pas contre ?
+
+689
+01:32:36,501 --> 01:32:39,626
+Si, je préférerais un volontaire.
+
+690
+01:32:42,417 --> 01:32:44,209
+Avez-vous des allumettes ?
+
+691
+01:32:52,376 --> 01:32:53,584
+Merci.
+
+692
+01:33:06,084 --> 01:33:08,126
+La plus longue ira en premier.
+
+693
+01:33:11,001 --> 01:33:12,334
+Tirez.
+
+694
+01:33:19,542 --> 01:33:20,542
+La longue.
+
+695
+01:33:21,292 --> 01:33:23,834
+Cette fois-ci,
+vous n'avez pas eu de chance.
+
+696
+01:33:38,292 --> 01:33:40,917
+Vous devriez y jeter un écrou,
+au moins.
+
+697
+01:33:41,459 --> 01:33:43,167
+Bien sûr, voilà.
+
+698
+01:34:21,126 --> 01:34:22,334
+Encore un ?
+
+699
+01:34:31,626 --> 01:34:32,792
+Bon.
+
+700
+01:34:34,667 --> 01:34:35,834
+J'y vais.
+
+701
+01:36:22,542 --> 01:36:24,376
+Plus vite, Professeur.
+
+702
+01:40:34,501 --> 01:40:35,709
+Là !
+
+703
+01:40:39,292 --> 01:40:41,459
+Il y a une porte.
+
+704
+01:40:58,959 --> 01:41:00,126
+Allez-y.
+
+705
+01:41:01,584 --> 01:41:03,751
+Ouvrez cette porte et entrez.
+
+706
+01:41:12,126 --> 01:41:13,292
+Encore moi ?
+
+707
+01:41:14,042 --> 01:41:15,792
+C'est moi qui entre ?
+
+708
+01:41:15,959 --> 01:41:17,959
+Le tirage au sort vous a désigné.
+
+709
+01:41:19,751 --> 01:41:22,042
+Allez, ne vous attardez pas ici.
+
+710
+01:41:26,292 --> 01:41:27,917
+Qu'est-ce que c'est ?
+
+711
+01:41:28,417 --> 01:41:30,626
+Surtout pas d'armes ici !
+
+712
+01:41:31,376 --> 01:41:33,834
+C'est la mort pour vous
+comme pour nous.
+
+713
+01:41:34,042 --> 01:41:35,917
+Rappelez-vous les chars.
+
+714
+01:41:36,792 --> 01:41:38,584
+Jetez-le, je vous en prie !
+
+715
+01:41:38,792 --> 01:41:40,917
+Vous ne comprenez pas ou quoi ?
+
+716
+01:41:42,292 --> 01:41:46,292
+S'il vous arrive quelque chose,
+je vous tirerai de là.
+
+717
+01:41:48,084 --> 01:41:49,417
+Mais si...
+
+718
+01:41:49,751 --> 01:41:51,126
+Je vous en supplie.
+
+719
+01:41:52,542 --> 01:41:55,334
+Sur qui voulez-vous tirer, là-bas ?
+
+720
+01:42:08,084 --> 01:42:10,584
+Allez, nous avons peu de temps.
+
+721
+01:42:14,584 --> 01:42:16,209
+Il y a de l'eau ici.
+
+722
+01:42:17,292 --> 01:42:20,042
+Tenez-vous à la rampe et descendez.
+
+723
+01:43:06,292 --> 01:43:10,292
+Ensuite, attendez-nous là-haut,
+à la sortie.
+
+724
+01:43:24,917 --> 01:43:27,751
+J'espère que vous n'avez rien
+dans le genre ?
+
+725
+01:43:27,917 --> 01:43:29,042
+Quoi donc ?
+
+726
+01:43:29,209 --> 01:43:30,876
+Pas de pistolet ?
+
+727
+01:43:31,251 --> 01:43:33,959
+Non, j'ai une ampoule au cas où.
+
+728
+01:43:34,917 --> 01:43:36,501
+Quelle ampoule ?
+
+729
+01:43:36,709 --> 01:43:39,417
+Une ampoule cachée sur moi.
+Du poison.
+
+730
+01:43:39,626 --> 01:43:42,792
+C'est pour mourir
+que vous êtes venu ici ?
+
+731
+01:43:49,042 --> 01:43:51,876
+C'est au cas où. On ne sait jamais.
+
+732
+01:44:19,126 --> 01:44:21,084
+L'Écrivain, en arrière !
+
+733
+01:44:21,292 --> 01:44:23,751
+Revenez donc, c'est suicidaire !
+
+734
+01:44:23,917 --> 01:44:26,251
+J'ai dit d'attendre à l'entrée.
+
+735
+01:44:27,001 --> 01:44:28,584
+Ne bougez pas !
+
+736
+01:45:15,001 --> 01:45:17,417
+- Tout ça, c'est votre tunnel.
+- Quoi ?
+
+737
+01:45:17,584 --> 01:45:18,584
+Rien.
+
+738
+01:45:19,209 --> 01:45:21,501
+Vous auriez dû passer en premier.
+
+739
+01:45:22,042 --> 01:45:25,209
+Par peur, il s'est trompé de route.
+
+740
+01:47:11,292 --> 01:47:14,459
+Encore une expérience.
+
+741
+01:47:16,959 --> 01:47:19,459
+Les expériences, les faits...
+
+742
+01:47:19,959 --> 01:47:22,376
+La vérité enfin.
+
+743
+01:47:24,126 --> 01:47:27,751
+Mais les faits n'existent pas,
+surtout ici.
+
+744
+01:47:29,042 --> 01:47:31,626
+Ici, tout a été inventé par quelqu'un.
+
+745
+01:47:32,084 --> 01:47:35,834
+L'invention d'un imbécile,
+vous ne le sentez pas ?
+
+746
+01:47:38,459 --> 01:47:41,876
+Vous voulez savoir à tout prix
+qui a inventé ça.
+
+747
+01:47:43,959 --> 01:47:45,626
+Pour quoi faire ?
+
+748
+01:47:46,834 --> 01:47:49,334
+À quoi bon vos connaissances ?
+
+749
+01:47:49,542 --> 01:47:52,501
+Quelle conscience en souffrira ?
+
+750
+01:47:52,709 --> 01:47:54,042
+La mienne ?
+
+751
+01:47:54,709 --> 01:47:58,751
+Je n'ai pas de conscience,
+je n'ai que des nerfs.
+
+752
+01:47:59,084 --> 01:48:02,001
+Un salaud m'engueule, ça me blesse.
+
+753
+01:48:02,917 --> 01:48:06,084
+Un autre salaud me flatte,
+ça me blesse encore.
+
+754
+01:48:06,417 --> 01:48:08,876
+On y met son âme et son cœur,
+
+755
+01:48:09,084 --> 01:48:11,917
+ils vous dévorent et l'âme et le cœur.
+
+756
+01:48:13,667 --> 01:48:17,126
+On sort une saleté de son âme
+et ils la bouffent.
+
+757
+01:48:17,834 --> 01:48:20,584
+Ils sont tous instruits,
+sans exception.
+
+758
+01:48:22,251 --> 01:48:25,584
+Ils ont tous besoin
+de stimulation sensorielle.
+
+759
+01:48:26,251 --> 01:48:28,876
+Alors ils grouillent tout autour.
+
+760
+01:48:29,542 --> 01:48:33,501
+Les journalistes, les rédacteurs,
+les critiques,
+
+761
+01:48:33,709 --> 01:48:36,209
+des bonnes femmes en permanence.
+
+762
+01:48:36,876 --> 01:48:39,876
+Tout le monde réclame :
+"Allez, allez !"
+
+763
+01:48:43,209 --> 01:48:45,709
+Quel foutu écrivain suis-je,
+
+764
+01:48:46,709 --> 01:48:49,042
+si je hais l'écriture ?
+
+765
+01:48:50,917 --> 01:48:52,417
+Si écrire est un supplice,
+
+766
+01:48:52,626 --> 01:48:54,959
+une activité douloureuse
+et humiliante,
+
+767
+01:48:55,209 --> 01:48:57,751
+comme de pincer des hémorroïdes ?
+
+768
+01:49:00,876 --> 01:49:04,792
+Je pensais que mes livres
+rendraient les gens meilleurs.
+
+769
+01:49:05,001 --> 01:49:07,292
+Or, personne n'a besoin de moi.
+
+770
+01:49:07,501 --> 01:49:08,626
+Et si je crève,
+
+771
+01:49:08,834 --> 01:49:12,834
+deux jours après, je serai oublié
+et remplacé par quelqu'un d'autre.
+
+772
+01:49:15,751 --> 01:49:19,959
+Je pensais les changer,
+mais c'est moi qu'ils ont changé
+
+773
+01:49:20,167 --> 01:49:23,084
+et fait à leur image,
+selon leur ressemblance.
+
+774
+01:49:27,709 --> 01:49:32,334
+Autrefois, l'avenir était
+le prolongement du présent.
+
+775
+01:49:32,542 --> 01:49:36,334
+Les changements se profilaient loin,
+derrière l'horizon.
+
+776
+01:49:37,292 --> 01:49:40,459
+À présent, l'avenir se confond
+avec le présent.
+
+777
+01:49:47,834 --> 01:49:50,126
+Sont-ils prêts à cela ?
+
+778
+01:49:50,959 --> 01:49:55,459
+Ils ne veulent rien savoir,
+ils ne font que s'empiffrer.
+
+779
+01:50:09,751 --> 01:50:11,584
+Vous en avez de la chance.
+
+780
+01:50:12,501 --> 01:50:14,292
+Mon Dieu, à présent,
+
+781
+01:50:15,084 --> 01:50:17,376
+vous allez vivre cent ans.
+
+782
+01:50:33,501 --> 01:50:35,626
+Pourquoi pas éternellement ?
+
+783
+01:50:38,459 --> 01:50:40,792
+Comme le Juif qui erre,
+éternellement ?
+
+784
+01:51:20,959 --> 01:51:23,959
+Vous êtes sûrement
+un homme merveilleux.
+
+785
+01:51:24,126 --> 01:51:26,292
+Je n'en ai jamais douté.
+
+786
+01:51:27,292 --> 01:51:31,209
+Vous avez supporté
+un tel martyre !
+
+787
+01:51:32,417 --> 01:51:36,084
+Ce tunnel est un endroit terrible,
+le plus terrible de la Zone.
+
+788
+01:51:36,292 --> 01:51:39,334
+On l'appelle le hachoir,
+mais il est pire que ça.
+
+789
+01:51:39,542 --> 01:51:41,292
+Combien ont péri ici !
+
+790
+01:51:46,501 --> 01:51:49,959
+Porc-épic y a sacrifié son frère.
+
+791
+01:51:53,126 --> 01:51:55,376
+Un garçon si fin, si doué.
+
+792
+01:51:58,042 --> 01:51:59,542
+Écoutez plutôt.
+
+793
+01:52:01,501 --> 01:52:05,709
+<i>Voilà l'été passé
+Comme s'il n'avait jamais existé</i>
+
+794
+01:52:06,667 --> 01:52:10,959
+<i>La chaleur subsiste
+Mais cela ne suffit pas</i>
+
+795
+01:52:11,751 --> 01:52:16,792
+<i>Tout ce qui pouvait arriver
+M'est tombé dans les mains</i>
+
+796
+01:52:17,584 --> 01:52:22,167
+<i>Telle une feuille à cinq doigts
+Mais cela ne suffit pas</i>
+
+797
+01:52:23,167 --> 01:52:27,709
+<i>Ni le mal ni le bien
+N'ont existé en vain</i>
+
+798
+01:52:28,501 --> 01:52:32,959
+<i>Ils ont brûlé d'un feu clair
+Mais cela ne suffit pas</i>
+
+799
+01:52:33,834 --> 01:52:38,626
+<i>La vie m'a pris sous son aile
+M'a protégé et sauvé</i>
+
+800
+01:52:39,251 --> 01:52:43,584
+<i>J'ai eu de la chance, c'est vrai
+Mais cela ne suffit pas</i>
+
+801
+01:52:44,584 --> 01:52:49,501
+<i>Les feuilles n'ont pas brûlé
+Les branches n'ont pas cassé</i>
+
+802
+01:52:50,084 --> 01:52:55,209
+<i>Le jour est clair comme du verre
+Mais cela ne suffit pas</i>
+
+803
+01:52:57,251 --> 01:52:59,959
+C'est beau, non ? C'est de lui.
+
+804
+01:53:00,167 --> 01:53:02,751
+C'est quoi ces simagrées ?
+
+805
+01:53:02,959 --> 01:53:04,167
+C'est beau...
+
+806
+01:53:04,376 --> 01:53:06,376
+- Je voulais...
+- C'est écœurant.
+
+807
+01:53:06,584 --> 01:53:09,084
+Si vous saviez comme je suis heureux.
+
+808
+01:53:09,292 --> 01:53:13,001
+Il est rare que tout le monde
+arrive à destination.
+
+809
+01:53:13,917 --> 01:53:17,501
+Vous êtes bons et honnêtes,
+je suis fier d'avoir vu juste.
+
+810
+01:53:17,667 --> 01:53:21,417
+Le voilà fou de joie
+que tout se soit bien passé.
+
+811
+01:53:21,584 --> 01:53:25,584
+Le Destin, la Zone,
+je suis un homme admirable...
+
+812
+01:53:26,126 --> 01:53:28,959
+Tu crois que je n'ai pas vu
+tes allumettes ?
+
+813
+01:53:29,167 --> 01:53:31,667
+- Vous ne comprenez pas...
+- C'est ça, oui.
+
+814
+01:53:31,834 --> 01:53:34,084
+Professeur,
+je ne veux pas vous heurter,
+
+815
+01:53:34,292 --> 01:53:36,751
+mais ce vaurien a fait de vous
+son chouchou,
+
+816
+01:53:36,959 --> 01:53:38,334
+pour une raison inconnue.
+
+817
+01:53:38,542 --> 01:53:40,084
+Pourquoi dites-vous ça ?
+
+818
+01:53:40,376 --> 01:53:44,376
+Et moi, individu inférieur,
+je suis bon pour le tunnel.
+
+819
+01:53:44,542 --> 01:53:46,834
+Le hachoir, quel mot !
+
+820
+01:53:48,042 --> 01:53:52,876
+De quel droit choisis-tu qui survit
+et qui passe par le hachoir ?
+
+821
+01:53:53,209 --> 01:53:55,251
+Moi je ne choisis rien, c'est vous.
+
+822
+01:53:55,459 --> 01:53:59,667
+Moi ? J'ai choisi
+entre deux allumettes longues.
+
+823
+01:54:00,209 --> 01:54:02,167
+Les allumettes, ce n'est rien.
+
+824
+01:54:02,376 --> 01:54:06,292
+Déjà avec l'écrou j'ai vu
+que la Zone vous laissait passer,
+
+825
+01:54:06,501 --> 01:54:09,459
+et que vous pourriez franchir
+le hachoir,
+
+826
+01:54:09,917 --> 01:54:11,042
+et nous après vous.
+
+827
+01:54:11,209 --> 01:54:12,584
+Ça alors !
+
+828
+01:54:13,459 --> 01:54:18,292
+Je ne choisis jamais moi-même.
+C'est terrifiant de se tromper.
+
+829
+01:54:19,376 --> 01:54:21,501
+Mais il faut bien un premier.
+
+830
+01:54:21,917 --> 01:54:22,917
+Oui ?
+
+831
+01:54:23,209 --> 01:54:25,667
+Non, ce n'est pas une clinique !
+
+832
+01:54:27,126 --> 01:54:30,626
+Quelqu'un doit passer en premier.
+Voyez-vous ça !
+
+833
+01:54:37,834 --> 01:54:39,167
+N'y touchez pas !
+
+834
+01:55:00,876 --> 01:55:03,417
+Laboratoire n° 9, je vous prie.
+
+835
+01:55:04,417 --> 01:55:05,792
+Une minute.
+
+836
+01:55:12,334 --> 01:55:13,334
+<i>Allô j'écoute.</i>
+
+837
+01:55:13,542 --> 01:55:15,167
+Je ne te dérange pas ?
+
+838
+01:55:15,501 --> 01:55:16,959
+<i>Que veux-tu ?</i>
+
+839
+01:55:18,292 --> 01:55:22,626
+En deux mots.
+Vous l'avez cachée, je l'ai trouvée.
+
+840
+01:55:22,834 --> 01:55:25,542
+Dans l'ancien bâtiment,
+quatrième bunker.
+
+841
+01:55:27,251 --> 01:55:28,417
+Tu m'entends ?
+
+842
+01:55:28,626 --> 01:55:31,626
+<i>J'avise immédiatement
+le service de sécurité.</i>
+
+843
+01:55:31,834 --> 01:55:32,917
+Tu peux.
+
+844
+01:55:33,334 --> 01:55:36,709
+Avise qui tu veux,
+écris tes lettres de dénonciation,
+
+845
+01:55:36,917 --> 01:55:41,167
+monte mes collaborateurs contre moi,
+c'est trop tard.
+
+846
+01:55:41,334 --> 01:55:44,251
+Je suis à deux pas
+de l'endroit en question.
+
+847
+01:55:45,751 --> 01:55:47,084
+Tu m'entends ?
+
+848
+01:55:47,584 --> 01:55:50,209
+<i>Ce sera la fin de ta carrière
+de chercheur.</i>
+
+849
+01:55:50,417 --> 01:55:51,417
+Réjouis-t'en.
+
+850
+01:55:51,584 --> 01:55:54,959
+<i>Tu sais ce qui va arriver,
+si tu oses ?</i>
+
+851
+01:55:57,251 --> 01:55:59,167
+Tu veux encore me faire peur.
+
+852
+01:56:00,876 --> 01:56:04,501
+Toute ma vie,
+j'ai eu peur de quelque chose.
+
+853
+01:56:04,959 --> 01:56:06,751
+J'ai même eu peur de toi.
+
+854
+01:56:07,126 --> 01:56:10,209
+Mais à présent,
+plus rien ne m'effraie.
+
+855
+01:56:10,709 --> 01:56:13,959
+<i>Tu n'es même pas un Érostrate.</i>
+
+856
+01:56:14,167 --> 01:56:17,251
+<i>Tu as toujours essayé
+de me faire des crasses,</i>
+
+857
+01:56:17,459 --> 01:56:20,917
+<i>parce qu'il y a 20 ans
+j'ai couché avec ta femme.</i>
+
+858
+01:56:21,126 --> 01:56:25,167
+<i>Alors tu es ravi de pouvoir
+me régler mon compte.</i>
+
+859
+01:56:25,626 --> 01:56:29,917
+<i>Vas-y, fais-la, ta saloperie.</i>
+
+860
+01:56:30,917 --> 01:56:32,959
+<i>Je te défends de raccrocher.</i>
+
+861
+01:56:34,417 --> 01:56:37,751
+<i>La prison n'est pas le pire
+de ce qui t'attend.</i>
+
+862
+01:56:37,959 --> 01:56:40,959
+<i>Car tu ne te le pardonneras jamais.</i>
+
+863
+01:56:41,126 --> 01:56:42,459
+<i>Je t'y vois déjà,</i>
+
+864
+01:56:42,667 --> 01:56:45,917
+<i>pendu à tes bretelles
+au-dessus des latrines.</i>
+
+865
+01:56:48,709 --> 01:56:52,292
+Que manigancez-vous, Professeur ?
+
+866
+01:56:53,584 --> 01:56:58,376
+Qu'arrivera-t-il quand tout le monde
+croira en cette Chambre
+
+867
+01:56:59,834 --> 01:57:03,001
+et que tout le monde se ruera ici ?
+
+868
+01:57:03,876 --> 01:57:07,792
+Ce n'est qu'une question de temps.
+
+869
+01:57:07,959 --> 01:57:11,251
+Demain ils accourront par milliers.
+
+870
+01:57:11,459 --> 01:57:13,542
+Tous ces empereurs avortés,
+
+871
+01:57:13,709 --> 01:57:16,709
+ces grands inquisiteurs
+et autres führers.
+
+872
+01:57:16,917 --> 01:57:20,876
+Tous ces bienfaiteurs du genre humain
+qui viendront
+
+873
+01:57:21,042 --> 01:57:25,667
+non par appât du gain,
+mais pour changer le monde.
+
+874
+01:57:25,876 --> 01:57:27,709
+Non, je ne prends pas ceux-là.
+
+875
+01:57:27,917 --> 01:57:30,959
+Comment le savez-vous ?
+Vous êtes drôle, vous.
+
+876
+01:57:31,626 --> 01:57:34,251
+Vous n'êtes pas l'unique Stalker
+au monde.
+
+877
+01:57:34,459 --> 01:57:37,542
+Et aucun Stalker ne sait
+ce qu'apportent
+
+878
+01:57:37,751 --> 01:57:40,792
+ou emportent d'ici
+ceux qu'il y amène.
+
+879
+01:57:41,001 --> 01:57:43,959
+Le nombre de crimes
+sans mobile augmente.
+
+880
+01:57:44,167 --> 01:57:45,792
+Vous n'y êtes pour rien ?
+
+881
+01:57:45,959 --> 01:57:47,959
+Et les coups d'État militaires ?
+
+882
+01:57:49,126 --> 01:57:53,209
+Les mafieux dans les gouvernements
+ne sont pas vos clients ?
+
+883
+01:57:53,417 --> 01:57:54,709
+Et les lasers,
+
+884
+01:57:55,251 --> 01:57:57,584
+les super-bactéries,
+
+885
+01:57:57,792 --> 01:58:02,126
+ces horreurs infectes encore cachées
+dans les coffres-forts ?
+
+886
+01:58:02,334 --> 01:58:05,251
+Arrêtez cette diarrhée sociologique.
+
+887
+01:58:05,459 --> 01:58:07,584
+Vous croyez à toutes ces légendes ?
+
+888
+01:58:07,792 --> 01:58:09,501
+Aux légendes effrayantes, oui.
+
+889
+01:58:09,709 --> 01:58:12,334
+Aux belles légendes, certainement pas.
+
+890
+01:58:12,542 --> 01:58:14,084
+Arrêtez ça.
+
+891
+01:58:14,667 --> 01:58:20,626
+Un seul être ne peut pas éprouver
+une haine ou un amour tels
+
+892
+01:58:20,792 --> 01:58:23,709
+qu'ils s'étendent
+à l'humanité entière.
+
+893
+01:58:24,667 --> 01:58:28,417
+Désirer de l'argent, une femme,
+une vengeance,
+
+894
+01:58:28,584 --> 01:58:32,542
+ou que son chef se fasse écraser,
+passe encore.
+
+895
+01:58:32,751 --> 01:58:34,459
+Mais diriger le monde,
+
+896
+01:58:34,626 --> 01:58:38,251
+une société juste,
+le règne de Dieu sur la Terre,
+
+897
+01:58:38,417 --> 01:58:42,167
+ce ne sont pas des souhaits
+mais des idéologies, des actions,
+
+898
+01:58:42,376 --> 01:58:43,542
+des conceptions.
+
+899
+01:58:44,792 --> 01:58:49,167
+Une compassion inconsciente
+ne peut encore se matérialiser,
+
+900
+01:58:50,084 --> 01:58:53,126
+comme un désir instinctif ordinaire.
+
+901
+01:58:53,542 --> 01:58:57,792
+Peut-on construire son bonheur
+sur le malheur d'autrui ?
+
+902
+01:58:58,667 --> 01:59:02,667
+Je vois bien que
+vous souhaitez écraser l'humanité
+
+903
+01:59:02,876 --> 01:59:06,084
+sous le poids
+d'une bonne action fabuleuse.
+
+904
+01:59:06,917 --> 01:59:08,792
+Mais je suis tranquille,
+
+905
+01:59:09,501 --> 01:59:11,334
+et pour vous et pour moi,
+
+906
+01:59:11,501 --> 01:59:13,751
+et encore plus pour l'humanité.
+
+907
+01:59:15,042 --> 01:59:17,417
+Car vous n'arriverez à rien.
+
+908
+01:59:18,542 --> 01:59:22,251
+Au mieux,
+vous recevrez votre prix Nobel.
+
+909
+01:59:23,876 --> 01:59:29,042
+Mais a priori il vous arrivera
+quelque chose de très incongru
+
+910
+01:59:29,251 --> 01:59:33,084
+qui ne vous serait jamais
+venu à l'esprit.
+
+911
+01:59:35,292 --> 01:59:39,834
+On rêve d'une chose
+et il en arrive une autre.
+
+912
+01:59:41,667 --> 01:59:43,292
+Pourquoi faites-vous ça ?
+
+913
+01:59:57,667 --> 01:59:58,876
+Le téléphone.
+
+914
+01:59:59,709 --> 02:00:01,334
+L'électricité...
+
+915
+02:00:05,251 --> 02:00:08,417
+Regardez,
+c'est un excellent somnifère.
+
+916
+02:00:08,751 --> 02:00:12,751
+On ne le trouve plus nulle part
+et ici, il y en a plein.
+
+917
+02:00:16,834 --> 02:00:18,667
+On y va ?
+
+918
+02:00:19,917 --> 02:00:21,459
+La nuit va bientôt tomber.
+
+919
+02:00:22,542 --> 02:00:24,459
+Il fera nuit pour le retour.
+
+920
+02:00:31,417 --> 02:00:35,167
+Moi, j'ai très bien compris
+
+921
+02:00:35,376 --> 02:00:38,876
+que le fait de réciter des poèmes
+et de tourner en rond
+
+922
+02:00:39,042 --> 02:00:42,501
+n'est qu'une façon originale
+de présenter des excuses.
+
+923
+02:00:42,709 --> 02:00:44,209
+Je vous comprends.
+
+924
+02:00:46,417 --> 02:00:49,167
+Une enfance difficile,
+le contexte social...
+
+925
+02:00:50,084 --> 02:00:52,501
+Ne vous faites pas d'illusions.
+
+926
+02:00:54,959 --> 02:00:57,001
+Je ne vous pardonnerai pas.
+
+927
+02:00:57,501 --> 02:00:59,959
+Ne faites pas ça, je vous en prie.
+
+928
+02:01:52,209 --> 02:01:55,376
+Professeur, revenez vers nous.
+
+929
+02:02:29,084 --> 02:02:30,459
+Attendez.
+
+930
+02:02:31,084 --> 02:02:32,542
+Ne vous pressez pas.
+
+931
+02:02:32,751 --> 02:02:34,917
+Je ne me presse pas du tout.
+
+932
+02:03:25,792 --> 02:03:28,126
+Je sais que ça va vous contrarier
+
+933
+02:03:30,959 --> 02:03:33,417
+mais je dois quand même
+vous le dire.
+
+934
+02:03:40,126 --> 02:03:41,834
+Nous nous trouvons là
+
+935
+02:03:43,584 --> 02:03:45,251
+au seuil.
+
+936
+02:03:52,626 --> 02:03:54,917
+C'est le moment le plus important
+
+937
+02:03:56,459 --> 02:03:57,876
+de votre vie.
+
+938
+02:04:00,876 --> 02:04:02,459
+Sachez qu'ici
+
+939
+02:04:04,334 --> 02:04:09,292
+votre souhait le plus cher
+sera exaucé.
+
+940
+02:04:11,167 --> 02:04:13,376
+Votre souhait le plus sincère.
+
+941
+02:04:15,167 --> 02:04:17,042
+Le plus douloureux.
+
+942
+02:04:46,251 --> 02:04:48,209
+Il n'y a pas besoin de parler.
+
+943
+02:04:51,542 --> 02:04:53,001
+Il faut juste
+
+944
+02:04:55,334 --> 02:04:56,876
+se concentrer
+
+945
+02:04:57,501 --> 02:05:00,751
+et essayer de se rappeler
+toute sa vie.
+
+946
+02:05:03,626 --> 02:05:08,959
+Quand l'homme pense à son passé,
+il devient meilleur.
+
+947
+02:05:10,042 --> 02:05:11,792
+Le principal...
+
+948
+02:05:45,334 --> 02:05:46,626
+Le principal,
+
+949
+02:05:51,709 --> 02:05:53,084
+c'est de croire.
+
+950
+02:06:02,501 --> 02:06:04,209
+Maintenant, allez-y.
+
+951
+02:06:10,084 --> 02:06:11,751
+Qui passe le premier ?
+
+952
+02:06:17,001 --> 02:06:18,292
+Vous, peut-être ?
+
+953
+02:06:20,209 --> 02:06:23,209
+Moi ? Non, je ne veux pas.
+
+954
+02:06:24,334 --> 02:06:26,334
+Je sais, ce n'est pas facile.
+
+955
+02:06:26,501 --> 02:06:28,959
+Ne craignez rien, ça passera.
+
+956
+02:06:30,751 --> 02:06:35,251
+Cela m'étonnerait que ça passe.
+
+957
+02:06:37,251 --> 02:06:40,959
+D'abord,
+je doute que le souvenir de mon passé
+
+958
+02:06:42,501 --> 02:06:44,084
+me rende meilleur.
+
+959
+02:06:46,167 --> 02:06:51,042
+Et puis, ne sens-tu pas
+à quel point c'est bas ?
+
+960
+02:07:08,834 --> 02:07:10,209
+S'abaisser,
+
+961
+02:07:11,709 --> 02:07:14,001
+pleurnicher, prier ?
+
+962
+02:07:15,126 --> 02:07:17,542
+Qu'y a-t-il de mal dans la prière ?
+
+963
+02:07:19,376 --> 02:07:21,542
+Vous dites ça par orgueil.
+
+964
+02:07:23,209 --> 02:07:26,167
+Calmez-vous,
+vous n'êtes pas encore prêt.
+
+965
+02:07:26,376 --> 02:07:28,292
+Ça arrive assez souvent.
+
+966
+02:07:31,084 --> 02:07:33,042
+Voulez-vous passer le premier ?
+
+967
+02:07:41,126 --> 02:07:42,501
+Moi ?
+
+968
+02:07:53,167 --> 02:07:55,251
+Voilà, sous vos yeux,
+
+969
+02:07:55,459 --> 02:07:58,792
+la nouvelle invention
+du "professeur Professeur".
+
+970
+02:07:59,292 --> 02:08:03,459
+Un appareil pour étudier l'âme,
+un âmomètre.
+
+971
+02:08:03,959 --> 02:08:05,709
+Ce n'est qu'une bombe.
+
+972
+02:08:06,667 --> 02:08:07,959
+Comment ?
+
+973
+02:08:10,042 --> 02:08:11,501
+C'est une blague.
+
+974
+02:08:11,834 --> 02:08:12,917
+Non.
+
+975
+02:08:14,917 --> 02:08:17,209
+C'est juste une bombe.
+Vingt kilotonnes.
+
+976
+02:08:18,626 --> 02:08:19,876
+Pour quoi faire ?
+
+977
+02:08:30,542 --> 02:08:34,501
+Je l'avais fabriquée
+avec des amis.
+
+978
+02:08:36,542 --> 02:08:40,292
+Avec mes anciens collègues.
+
+979
+02:08:44,376 --> 02:08:48,376
+Cet endroit n'apportera de bonheur
+à personne.
+
+980
+02:08:52,501 --> 02:08:57,167
+Et s'il tombe
+entre de mauvaises mains...
+
+981
+02:08:59,542 --> 02:09:01,959
+Enfin, je ne sais même plus à présent.
+
+982
+02:09:03,751 --> 02:09:05,792
+On avait pensé à l'époque,
+
+983
+02:09:08,084 --> 02:09:10,876
+qu'il ne fallait pas détruire la Zone.
+
+984
+02:09:12,459 --> 02:09:18,251
+Car même si c'est un miracle,
+c'est une partie de la nature.
+
+985
+02:09:18,876 --> 02:09:21,584
+C'est donc l'espoir,
+en un certain sens.
+
+986
+02:09:23,584 --> 02:09:25,834
+Ils ont donc caché la bombe
+
+987
+02:09:26,834 --> 02:09:28,292
+et je l'ai retrouvée.
+
+988
+02:09:28,459 --> 02:09:30,917
+Ancien bâtiment, quatrième bunker.
+
+989
+02:09:36,459 --> 02:09:39,501
+Il existe certainement un principe :
+
+990
+02:09:41,251 --> 02:09:44,084
+ne jamais commettre
+d'actions irréversibles.
+
+991
+02:09:44,292 --> 02:09:46,792
+Je le comprends, je ne suis pas fou.
+
+992
+02:09:51,001 --> 02:09:53,709
+Mais tant que cet ulcère
+sera accessible ici
+
+993
+02:09:54,709 --> 02:09:56,876
+à n'importe quel salaud,
+
+994
+02:09:59,167 --> 02:10:01,376
+je n'aurai ni sommeil, ni repos.
+
+995
+02:10:08,834 --> 02:10:11,959
+À moins que mon for intérieur
+ne me l'interdise ?
+
+996
+02:10:18,167 --> 02:10:21,167
+Le pauvre,
+il s'est posé une belle colle.
+
+997
+02:10:44,876 --> 02:10:45,959
+Donnez-moi ça.
+
+998
+02:11:00,959 --> 02:11:02,292
+Donnez-moi ça !
+
+999
+02:11:07,542 --> 02:11:09,751
+Mais où sont passées vos manières ?
+
+1000
+02:11:17,084 --> 02:11:18,834
+Pourquoi faites-vous cela ?
+
+1001
+02:11:19,042 --> 02:11:21,084
+Espèce d'ordure hypocrite.
+
+1002
+02:11:22,501 --> 02:11:26,667
+Pourquoi me traitez-vous ainsi ?
+
+1003
+02:11:27,667 --> 02:11:29,459
+C'est lui qui veut tout détruire.
+
+1004
+02:11:29,667 --> 02:11:32,292
+C'est votre espoir
+qu'il veut détruire !
+
+1005
+02:11:55,001 --> 02:11:58,667
+Il n'est plus rien resté
+aux hommes sur Terre.
+
+1006
+02:11:59,667 --> 02:12:04,126
+C'est l'unique endroit
+où l'on peut venir
+
+1007
+02:12:04,709 --> 02:12:06,876
+lorsqu'il n'y a plus aucun espoir.
+
+1008
+02:12:09,292 --> 02:12:11,251
+Vous êtes bien venus, vous !
+
+1009
+02:12:11,792 --> 02:12:14,751
+Pourquoi détruisez-vous la foi ?
+
+1010
+02:12:14,959 --> 02:12:17,001
+Vas-tu te taire ?
+
+1011
+02:12:19,626 --> 02:12:21,876
+Je vois clair en toi.
+
+1012
+02:12:23,084 --> 02:12:25,001
+Tu t'en fous, des gens.
+
+1013
+02:12:26,376 --> 02:12:28,834
+Tu gagnes de l'argent
+
+1014
+02:12:30,959 --> 02:12:32,209
+sur notre tourment.
+
+1015
+02:12:32,417 --> 02:12:35,417
+Et même sans argent,
+tu prends du plaisir ici,
+
+1016
+02:12:35,626 --> 02:12:38,959
+car tu y es tout-puissant,
+ordure hypocrite.
+
+1017
+02:12:39,167 --> 02:12:41,834
+Tu décides de notre vie
+ou de notre mort.
+
+1018
+02:12:42,042 --> 02:12:44,376
+Dire que c'est lui qui choisit !
+
+1019
+02:12:45,876 --> 02:12:50,209
+Voilà pourquoi les Stalkers
+n'entrent jamais dans la Chambre.
+
+1020
+02:12:50,376 --> 02:12:51,709
+Pour quoi faire,
+
+1021
+02:12:52,042 --> 02:12:55,834
+si ici vous pouvez savourer
+le pouvoir et l'autorité ?
+
+1022
+02:12:56,042 --> 02:12:57,459
+Que désirer de plus ?
+
+1023
+02:12:58,084 --> 02:13:01,167
+Ce n'est pas vrai, vous vous trompez.
+
+1024
+02:13:06,709 --> 02:13:10,209
+Un Stalker n'a pas le droit d'entrer
+dans la Chambre
+
+1025
+02:13:10,792 --> 02:13:13,709
+ni d'aller dans la Zone
+dans un but intéressé.
+
+1026
+02:13:14,084 --> 02:13:16,084
+Souvenez-vous de Porc-épic.
+
+1027
+02:13:18,626 --> 02:13:20,959
+C'est vrai,
+je ne suis qu'une ordure.
+
+1028
+02:13:21,126 --> 02:13:24,667
+Je n'ai rien fait dans ce monde
+et ne puis rien faire.
+
+1029
+02:13:26,667 --> 02:13:29,209
+Je n'ai rien pu donner à ma femme.
+
+1030
+02:13:30,126 --> 02:13:32,584
+Je n'ai pas d'amis
+et je ne puis en avoir.
+
+1031
+02:13:33,126 --> 02:13:35,376
+Mais ne m'enlevez pas
+ce qui est à moi.
+
+1032
+02:13:35,584 --> 02:13:38,959
+On m'a déjà tout pris là-bas,
+derrière les barbelés.
+
+1033
+02:13:42,792 --> 02:13:46,251
+Ce qui m'appartient est ici même,
+
+1034
+02:13:46,959 --> 02:13:48,209
+dans la Zone.
+
+1035
+02:13:49,751 --> 02:13:54,251
+Mon bonheur, ma liberté,
+ma dignité, tout est là.
+
+1036
+02:13:56,542 --> 02:13:59,917
+Je conduis ici des gens comme moi,
+des malheureux.
+
+1037
+02:14:00,251 --> 02:14:04,084
+Il ne leur reste plus aucun espoir.
+
+1038
+02:14:05,501 --> 02:14:09,709
+Et personne d'autre que moi
+ne peut les aider.
+
+1039
+02:14:10,042 --> 02:14:11,792
+Je peux, moi, l'ordure !
+
+1040
+02:14:14,126 --> 02:14:16,876
+J'en pleure de bonheur de les aider.
+
+1041
+02:14:18,126 --> 02:14:20,417
+C'est tout, je ne veux rien de plus.
+
+1042
+02:14:43,001 --> 02:14:44,709
+Peut-être bien.
+
+1043
+02:14:45,751 --> 02:14:47,959
+Alors, excuse-moi,
+
+1044
+02:14:49,542 --> 02:14:51,709
+mais tu n'es qu'un simple d'esprit.
+
+1045
+02:14:53,751 --> 02:14:56,876
+Tu n'as aucune idée
+de ce qui se passe ici.
+
+1046
+02:15:00,709 --> 02:15:03,834
+Pourquoi Porc-épic
+s'est-il pendu, selon toi ?
+
+1047
+02:15:04,042 --> 02:15:07,709
+Il est venu dans un but intéressé
+et à cause de l'argent,
+
+1048
+02:15:07,917 --> 02:15:10,667
+il a fait périr son frère
+dans le hachoir.
+
+1049
+02:15:10,876 --> 02:15:14,292
+Mais pourquoi s'est-il pendu
+malgré tout ?
+
+1050
+02:15:14,917 --> 02:15:16,501
+Pourquoi n'est-il pas revenu,
+
+1051
+02:15:16,709 --> 02:15:19,251
+non pour l'argent,
+mais pour son frère ?
+
+1052
+02:15:20,292 --> 02:15:21,876
+Puisqu'il s'était repenti ?
+
+1053
+02:15:22,167 --> 02:15:26,501
+Il le voulait mais peu après,
+il s'est pendu.
+
+1054
+02:15:26,709 --> 02:15:29,417
+Il a compris que dans la Chambre,
+
+1055
+02:15:30,167 --> 02:15:33,459
+seuls les vœux les plus secrets
+étaient exaucés.
+
+1056
+02:15:41,084 --> 02:15:43,751
+Tu peux crier autant que tu veux.
+
+1057
+02:15:51,959 --> 02:15:56,084
+Ici se réalise ce qui correspond
+à ta nature profonde
+
+1058
+02:15:56,501 --> 02:15:59,417
+que tu ne soupçonnes même pas
+
+1059
+02:15:59,626 --> 02:16:01,876
+et qui dirige toute ta vie.
+
+1060
+02:16:03,167 --> 02:16:05,584
+Tu n'as rien compris.
+
+1061
+02:16:05,751 --> 02:16:07,959
+Porc-épic n'a pas cédé à la cupidité.
+
+1062
+02:16:08,167 --> 02:16:11,542
+Il a supplié son frère à genoux
+dans cette même mare.
+
+1063
+02:16:11,751 --> 02:16:16,584
+Mais n'a reçu que des masses d'argent
+et rien d'autre.
+
+1064
+02:16:17,751 --> 02:16:20,834
+Car Porc-épic, c'est Porc-épic
+et rien d'autre.
+
+1065
+02:16:21,334 --> 02:16:25,667
+La conscience et les états d'âme,
+c'est imaginaire.
+
+1066
+02:16:26,376 --> 02:16:28,542
+Il l'a compris et s'est pendu.
+
+1067
+02:16:33,459 --> 02:16:35,417
+Je n'irai pas dans ta Chambre.
+
+1068
+02:16:37,251 --> 02:16:39,959
+Je ne veux pas déverser
+toutes mes saletés
+
+1069
+02:16:40,209 --> 02:16:42,084
+sur la tête d'autrui,
+
+1070
+02:16:42,626 --> 02:16:43,959
+même la tienne,
+
+1071
+02:16:44,959 --> 02:16:47,584
+pour me pendre ensuite,
+comme Porc-épic.
+
+1072
+02:16:48,584 --> 02:16:53,542
+Je préfère me noyer dans l'alcool
+à notre Club des Écrivains.
+
+1073
+02:16:56,084 --> 02:17:01,084
+Tu ne connais rien aux gens,
+Grand-Serpent,
+
+1074
+02:17:01,876 --> 02:17:04,959
+si tu conduis dans la Zone
+des types comme moi.
+
+1075
+02:17:12,417 --> 02:17:13,792
+Et après tout,
+
+1076
+02:17:15,751 --> 02:17:19,792
+qui t'a fait croire
+que ce miracle peut avoir lieu ?
+
+1077
+02:17:21,251 --> 02:17:25,917
+Qui vous a dit que les vœux
+étaient exaucés ici ?
+
+1078
+02:17:28,334 --> 02:17:32,376
+Avez-vous vu un seul homme
+sortant d'ici comblé ?
+
+1079
+02:17:34,209 --> 02:17:35,959
+Porc-épic peut-être ?
+
+1080
+02:17:40,959 --> 02:17:43,751
+Au fait, qui vous a parlé
+
+1081
+02:17:43,959 --> 02:17:48,709
+de la Zone, de Porc-épic,
+de la Chambre ?
+
+1082
+02:17:50,834 --> 02:17:52,084
+Lui.
+
+1083
+02:18:56,959 --> 02:18:59,334
+Alors, je n'y comprends rien.
+
+1084
+02:19:00,959 --> 02:19:03,542
+Quel sens y a-t-il de venir ici ?
+
+1085
+02:20:26,834 --> 02:20:28,084
+Quel silence.
+
+1086
+02:20:30,001 --> 02:20:31,209
+Vous entendez ?
+
+1087
+02:20:36,751 --> 02:20:40,167
+Et si je laissais tout tomber ?
+
+1088
+02:20:41,751 --> 02:20:46,292
+Si je prenais ma femme et Ouistiti
+pour venir vivre ici.
+
+1089
+02:20:49,876 --> 02:20:51,167
+Pour toujours.
+
+1090
+02:20:53,751 --> 02:20:55,501
+Il n'y a personne ici.
+
+1091
+02:20:56,626 --> 02:20:58,626
+Personne ne leur ferait de mal.
+
+1092
+02:25:13,167 --> 02:25:14,709
+Te voilà revenu.
+
+1093
+02:25:21,042 --> 02:25:22,792
+Ça vient d'où, ça ?
+
+1094
+02:25:24,251 --> 02:25:25,542
+Il nous a suivis.
+
+1095
+02:25:26,751 --> 02:25:28,667
+On n'allait pas le laisser.
+
+1096
+02:25:46,001 --> 02:25:48,459
+Bon... On y va ?
+
+1097
+02:25:49,584 --> 02:25:51,084
+Ouistiti attend.
+
+1098
+02:25:55,209 --> 02:25:56,626
+On y va ?
+
+1099
+02:26:11,084 --> 02:26:13,542
+Personne n'a besoin d'un chien ?
+
+1100
+02:26:16,626 --> 02:26:18,751
+J'en ai cinq comme ça chez moi.
+
+1101
+02:26:28,876 --> 02:26:31,334
+Vous aimez les chiens alors ?
+
+1102
+02:26:32,167 --> 02:26:33,251
+Comment ?
+
+1103
+02:26:33,542 --> 02:26:34,959
+C'est très bien.
+
+1104
+02:26:40,751 --> 02:26:42,959
+Allez, en route.
+
+1105
+02:29:45,834 --> 02:29:48,084
+Si vous saviez comme je suis fatigué.
+
+1106
+02:29:50,001 --> 02:29:51,501
+Dieu seul le sait.
+
+1107
+02:29:53,709 --> 02:29:58,167
+Ils se prétendent intellectuels,
+ces écrivains, ces chercheurs !
+
+1108
+02:29:58,376 --> 02:29:59,626
+Calme-toi.
+
+1109
+02:30:00,542 --> 02:30:02,542
+Ils ne croient en rien.
+
+1110
+02:30:03,251 --> 02:30:04,292
+Chez eux,
+
+1111
+02:30:05,584 --> 02:30:07,959
+l'organe de la foi est atrophié.
+
+1112
+02:30:08,209 --> 02:30:10,959
+- Calme-toi.
+- Car il ne leur sert jamais.
+
+1113
+02:30:12,001 --> 02:30:15,417
+Calme-toi, viens te coucher.
+
+1114
+02:30:16,084 --> 02:30:17,417
+Viens.
+
+1115
+02:30:18,542 --> 02:30:21,084
+Il fait humide,
+c'est mauvais pour toi.
+
+1116
+02:30:24,251 --> 02:30:25,417
+Enlève ça.
+
+1117
+02:31:37,084 --> 02:31:38,876
+Seigneur, que sont ces gens.
+
+1118
+02:31:39,084 --> 02:31:40,376
+Calme-toi.
+
+1119
+02:31:40,667 --> 02:31:42,959
+Calme-toi, ce n'est pas leur faute.
+
+1120
+02:31:43,459 --> 02:31:46,084
+Il faut les plaindre
+et toi tu te fâches.
+
+1121
+02:31:46,292 --> 02:31:48,959
+Tu as vu leurs yeux,
+ils sont vides.
+
+1122
+02:32:01,459 --> 02:32:04,209
+Ils ne pensent qu'à se faire valoir,
+
+1123
+02:32:04,917 --> 02:32:07,667
+à se vendre au meilleur prix.
+
+1124
+02:32:07,876 --> 02:32:10,584
+À se faire payer chaque élan de l'âme.
+
+1125
+02:32:13,792 --> 02:32:16,667
+Ils considèrent ne pas être nés
+pour rien,
+
+1126
+02:32:16,876 --> 02:32:18,251
+être choisis.
+
+1127
+02:32:21,167 --> 02:32:23,167
+Ils ne vivent qu'une fois.
+
+1128
+02:32:25,167 --> 02:32:28,251
+Comment peuvent-ils croire
+en quelque chose ?
+
+1129
+02:32:29,417 --> 02:32:31,876
+Calme-toi, ne parle plus.
+
+1130
+02:32:33,334 --> 02:32:34,959
+Essaie de dormir.
+
+1131
+02:32:41,251 --> 02:32:44,876
+Personne ne croit,
+pas seulement ces deux-là.
+
+1132
+02:32:46,126 --> 02:32:47,251
+Personne.
+
+1133
+02:32:47,959 --> 02:32:50,042
+Qui vais-je emmener là-bas ?
+
+1134
+02:32:54,084 --> 02:32:55,251
+Seigneur.
+
+1135
+02:32:56,334 --> 02:32:57,834
+Le plus terrible,
+
+1136
+02:33:00,501 --> 02:33:04,626
+c'est que personne n'en a besoin,
+de cette Chambre.
+
+1137
+02:33:04,834 --> 02:33:07,251
+Tous mes efforts ne servent à rien.
+
+1138
+02:33:07,584 --> 02:33:09,542
+Ne dis pas ça.
+
+1139
+02:33:10,126 --> 02:33:11,334
+Arrête.
+
+1140
+02:33:17,459 --> 02:33:19,876
+Je n'y emmènerai plus jamais personne.
+
+1141
+02:33:22,792 --> 02:33:27,126
+Veux-tu que moi, j'y aille avec toi ?
+
+1142
+02:33:28,001 --> 02:33:29,251
+Où ça ?
+
+1143
+02:33:29,626 --> 02:33:32,667
+Tu crois que je n'aurais rien
+à demander ?
+
+1144
+02:33:37,042 --> 02:33:38,251
+Non.
+
+1145
+02:33:42,292 --> 02:33:44,834
+- Ce n'est pas possible.
+- Pourquoi ?
+
+1146
+02:33:47,876 --> 02:33:49,167
+Non, non.
+
+1147
+02:33:54,292 --> 02:33:57,959
+Et si toi aussi tu échouais ?
+
+1148
+02:34:34,126 --> 02:34:37,334
+Vous savez,
+ma mère était tout à fait contre.
+
+1149
+02:34:39,459 --> 02:34:43,834
+Vous avez bien compris
+que c'était un bienheureux.
+
+1150
+02:34:47,001 --> 02:34:49,167
+Tout le monde se moquait de lui.
+
+1151
+02:34:49,376 --> 02:34:52,167
+Il avait l'air bête.
+
+1152
+02:34:54,751 --> 02:34:55,917
+Maman disait :
+
+1153
+02:34:57,084 --> 02:34:58,459
+"C'est un Stalker.
+
+1154
+02:34:58,667 --> 02:35:01,917
+"Un condamné à mort,
+un forçat à perpétuité.
+
+1155
+02:35:02,084 --> 02:35:04,417
+Sais-tu quels enfants
+ont les Stalkers ?"
+
+1156
+02:35:04,626 --> 02:35:07,626
+Moi, je ne le contestais même pas.
+
+1157
+02:35:10,376 --> 02:35:13,292
+Je savais
+que c'était un condamné à mort.
+
+1158
+02:35:13,584 --> 02:35:15,126
+Prisonnier à vie.
+
+1159
+02:35:16,126 --> 02:35:18,584
+Je savais pour les enfants aussi.
+
+1160
+02:35:22,542 --> 02:35:24,126
+Que pouvais-je faire ?
+
+1161
+02:35:24,334 --> 02:35:27,542
+J'étais sûre
+qu'avec lui je serais bien.
+
+1162
+02:35:29,876 --> 02:35:32,751
+Je savais
+qu'il y aurait bien des malheurs
+
+1163
+02:35:33,542 --> 02:35:38,126
+mais un bonheur amer vaut mieux
+
+1164
+02:35:40,209 --> 02:35:42,417
+qu'une vie grise et maussade.
+
+1165
+02:35:47,876 --> 02:35:50,792
+Peut-être ai-je inventé tout cela
+après coup.
+
+1166
+02:36:00,126 --> 02:36:03,167
+Mais quand il m'a dit
+tout simplement :
+
+1167
+02:36:03,334 --> 02:36:05,667
+"Viens avec moi", je l'ai suivi.
+
+1168
+02:36:06,709 --> 02:36:09,334
+Je ne l'ai jamais regretté.
+
+1169
+02:36:13,251 --> 02:36:14,459
+Jamais.
+
+1170
+02:36:17,417 --> 02:36:19,501
+J'ai connu le malheur,
+
+1171
+02:36:20,417 --> 02:36:22,584
+la peur et la honte.
+
+1172
+02:36:22,876 --> 02:36:26,584
+Mais je n'ai jamais regretté
+ni envié personne.
+
+1173
+02:36:28,834 --> 02:36:30,459
+Car c'est le destin.
+
+1174
+02:36:32,167 --> 02:36:34,751
+Ainsi va la vie, nous sommes comme ça.
+
+1175
+02:36:40,126 --> 02:36:43,876
+Sans malheur, notre vie
+n'aurait pas été meilleure.
+
+1176
+02:36:45,501 --> 02:36:47,042
+Elle aurait été pire.
+
+1177
+02:36:49,917 --> 02:36:54,501
+Car alors,
+il n'y aurait pas eu de bonheur.
+
+1178
+02:36:57,167 --> 02:36:59,376
+Et il n'y aurait pas eu d'espoir.
+
+1179
+02:37:02,834 --> 02:37:04,001
+Voilà.
+
+1180
+02:37:50,626 --> 02:37:53,459
+<i>Comme j'aime tes yeux</i>
+
+1181
+02:37:54,417 --> 02:37:57,501
+<i>Et leur flamme étincelante</i>
+
+1182
+02:37:58,876 --> 02:38:01,876
+<i>Quand tu les lèves soudain</i>
+
+1183
+02:38:02,751 --> 02:38:05,626
+<i>Tel un éclair surgi des cieux</i>
+
+1184
+02:38:06,126 --> 02:38:09,459
+<i>Et traces un grand arc en un instant</i>
+
+1185
+02:38:10,376 --> 02:38:13,584
+<i>Mais il est des délices</i>
+
+1186
+02:38:14,084 --> 02:38:17,167
+<i>Encore plus forts : les yeux inclinés</i>
+
+1187
+02:38:17,584 --> 02:38:20,792
+<i>Des baisers fous</i>
+
+1188
+02:38:21,167 --> 02:38:24,417
+<i>Et à travers les cils abaissés</i>
+
+1189
+02:38:25,417 --> 02:38:32,042
+<i>La flamme sombre et trouble du désir</i>
+
+1190
+02:41:19,959 --> 02:41:21,501
+FIN
+
+1191
+02:41:21,709 --> 02:41:23,751
+Studios Mosfilm 1979
+
+1192
+02:41:24,209 --> 02:41:26,501
+Sous-titrage : Le Joli Mai
+
+1193
+02:41:28,417 --> 02:41:31,001
+Restauration du film
+Producteur : Karen Chakhnazarov
+
+1194
+02:41:31,209 --> 02:41:32,876
+Igor Bogdasarov
+Victor Tamazine
+
+1195
+02:41:33,084 --> 02:41:34,792
+Irina Agafonova
+Evgueni Verlochev
+
+1196
+02:41:34,959 --> 02:41:36,751
+Diana Kolomeïtseva
+Fedor Poudalov
+
+1197
+02:41:36,959 --> 02:41:37,959
+Ioulia Taktachkina
+
+1198
+02:41:38,167 --> 02:41:39,959
+Société de production Mosfilm 2016
