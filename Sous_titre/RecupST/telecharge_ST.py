@@ -1,4 +1,6 @@
-import requests, os, BluRayKestion
+import requests, os
+from Sous_titre.RecupST import BluRayKestion
+
 
 #clé API OpenSub : 8PRtkL7RI48NuxYauvAd0BExzKLJjC3N
 def recup_Id_ST(idimdb, langue, Fps):
@@ -67,8 +69,8 @@ def DL_ST(nomduST, FpsFilm, Langue, idimdb):
     lien = donnees['link']
     fichierSRT = requests.get(lien)
 
-    os.makedirs("ST_Recuperes", exist_ok=True)
-    CheminFichierST = os.path.join("ST_Recuperes", nomduST) + ".srt"
+    os.makedirs("../ST_Recuperes", exist_ok=True)
+    CheminFichierST = os.path.join("../ST_Recuperes", nomduST) + ".srt"
     with open (CheminFichierST, 'wb') as fichier:
         fichier.write(fichierSRT.content)
 

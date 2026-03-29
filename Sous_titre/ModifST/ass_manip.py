@@ -55,14 +55,14 @@ def num_param(parametre):
 def mise_en_forme(chemin_ass, parametre):   #parametre est une liste
     for ligne in fileinput.input(chemin_ass, inplace=True):
         if not ligne.startswith('Style'):
-            print(ligne, end = '')   # Pas de double saut
+            print(ligne, end = '')   # le end = '' permet d'éviter de faire retour ligne auto du print
         else:
             ligne = ligne.split(",")  # met dans une liste cahque paramètre
             for i in parametre:  # param sous annuaire{param: valeur, ...}
                 p = num_param(i)
                 ligne[p] = parametre[i]
             ligne = ", ".join(ligne)
-            print(ligne)
+            print(ligne, end='')
 
 
 
@@ -120,5 +120,9 @@ Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
+
+
+
+
 if __name__ == "__main__":
-    mise_en_forme(r"C:\Users\ianpa\Downloads\Projet_Sous_titre_film-main\Projet_Sous_titre_film-main\Sous_titre\ST_Generes\Stalker_STFR.ass", {"Fontsize": "5", "Fontname": "sans-serif"} )
+    mise_en_forme(r"C:\Users\ianpa\Documents\PROJET_PERSO\Projet_Sous_titre_film-main\Projet_Sous_titre_film-main\ST_Generes\Stalker_STFR.ass", {"Fontsize": "5", "Fontname": "sans-serif", "MarginV": "40"} )

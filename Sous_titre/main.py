@@ -1,8 +1,11 @@
-import lire_mkv, Imdb, Resync, telecharge_ST, Extraction, ass_manip
-from pymediainfo import MediaInfo
+from Sous_titre.ModifST import ass_manip, fusionEnFr
+from Sous_titre.SyncST import Resync
+from Sous_titre.RecupST import telecharge_ST
+from Sous_titre.Extract import Extraction, lire_mkv, Imdb
+
 
 cheminfilm = input("chemin du MKV : ")
-
+cheminfilm = cheminfilm.strip('"')
 Nom_du_film, Annee_du_film, Fps, Id_track_ST_en, Format_ST_en, Id_track_ST_fr, Format_ST_fr = lire_mkv.recupTitreEtSTEtFps(cheminfilm)
 
 Id_Imdb = Imdb.recup_Id(Nom_du_film, Annee_du_film)
@@ -18,7 +21,7 @@ match choix:
     case 1:
         print("génération du sous titre Fr prêt à l'emploie")
         nomduST = Nom_du_film + "_STFR"
-        Chemin_STFR = telecharge_ST.DL_ST(nomduST + "_avSync", Fps, "fr" , Id_Imdb)
+        Chemin_STFR = telecharge_ST.DL_ST(nomduST + "_avSync", Fps, "fr", Id_Imdb)
         if Id_track_ST_en is not None:      #si ya des ST originaux en anglaison sync avec, sinon avec l'audio
             Chemin_STENG = Extraction.ST(cheminfilm, Id_track_ST_en, Format_ST_en, Nom_du_film)
             ST_final = Resync.ST_STREF(Chemin_STENG, Chemin_STFR, nomduST)
@@ -57,14 +60,14 @@ match choix:
         Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
         Style: Default,Arial,16,&Hffffff (BRG),&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
         """
-        parametre_ENG = { "fontsize": "16", "PrimaryColour": "&H00ffff", } #tout en str
+        parametre_ENG = { "fontsize": "10", "PrimaryColour": "&H00ffff", "MarginV": "40" } #tout en str
         ass_manip.mise_en_forme(chemin_STENG_ass, parametre_ENG)
 
-        parametre_FR = { "fontsize": "16", "PrimaryColour": "&H0000ff", "ScaleX": "10"}
+        parametre_FR = { "fontsize": "4", "PrimaryColour": "&H0000ff","MarginV": "5"}
         ass_manip.mise_en_forme(chemin_STFR_ass, parametre_FR)
 
         #on assemble les deux
-
+        fusionEnFr.Fusionner_ST(chemin_STFR_ass, chemin_STENG_ass)
 
 
    # case 3:
