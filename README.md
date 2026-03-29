@@ -1,5 +1,5 @@
 # Projet_Sous_titre_film
-**Permet de simplifier la récupération et synchronisation de sous titres via des outils existants **(ffsubsync en grande partie)
+**Permet de simplifier la récupération et synchronisation de sous titres via des outils existants** (ffsubsync en grande partie)
 Recupère le lien du fichier du film. 
 
 Puis permet de soit: 
@@ -9,7 +9,7 @@ Puis permet de soit:
 
 
 
-**P2 -> **Récupérer les ST Français et Anglais, les synchroniser au mieux sur le film et les assembler l'un en dessous de l'autre en .ass
+**P2 ->** Récupérer les ST Français et Anglais, les synchroniser au mieux sur le film et les assembler l'un en dessous de l'autre en .ass
 
 
 
